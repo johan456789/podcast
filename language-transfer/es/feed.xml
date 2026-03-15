@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+>
+  <channel>
+    <title>Language Transfer Spanish</title>
+    <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+    <description>Language Transfer Spanish podcast feed.</description>
+    <language>en</language>
+    <generator>Static GitHub Pages podcast feed</generator>
+    <lastBuildDate>Sun, 15 Mar 2026 21:56:39 +0800</lastBuildDate>
+    <atom:link
+      href="https://johan456789.github.io/podcast/language-transfer/es/feed.xml"
+      rel="self"
+      type="application/rss+xml"
+    />
+    <itunes:author>Language Transfer</itunes:author>
+    <itunes:summary>Hosted mirror for Language Transfer's Complete Spanish lessons.</itunes:summary>
+    <itunes:image href="https://johan456789.github.io/podcast/language-transfer/es/cover.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Education" />
+    <image>
+      <url>https://johan456789.github.io/podcast/language-transfer/es/cover.jpg</url>
+      <title>Language Transfer Spanish</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+    </image>
+    <item>
+      <title>Complete Spanish 16</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 16 from the Complete Spanish course.</description>
+      <pubDate>Sun, 15 Mar 2026 21:56:39 +0800</pubDate>
+      <guid isPermaLink="false">language-transfer-es-16</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/16.mp3"
+        length="7336239"
+        type="audio/mpeg"
+      />
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:38</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/16.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 16 from the Complete Spanish course.</p>
+        <p><a href="https://johan456789.github.io/podcast/language-transfer/es/audio/16.mp3">Download MP3</a></p>
+      ]]></content:encoded>
+    </item>
+  </channel>
+</rss>

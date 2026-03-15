@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Language Transfer Spanish</title>
+    <link rel="alternate" type="application/rss+xml" title="Language Transfer Spanish Feed" href="./feed.xml" />
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f3efe5;
+        --panel: #fffaf1;
+        --ink: #1d1a15;
+        --muted: #64594b;
+        --accent: #ba5a25;
+        --border: #d7c7b2;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at top, rgba(186, 90, 37, 0.16), transparent 34%),
+          linear-gradient(180deg, #f7f2e8 0%, var(--bg) 100%);
+      }
+
+      main {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 48px 20px 64px;
+      }
+
+      .hero,
+      .episode {
+        background: rgba(255, 250, 241, 0.9);
+        border: 1px solid var(--border);
+        border-radius: 24px;
+        padding: 24px;
+        box-shadow: 0 18px 40px rgba(60, 38, 15, 0.08);
+      }
+
+      .hero {
+        display: grid;
+        gap: 20px;
+      }
+
+      .cover {
+        width: min(220px, 100%);
+        border-radius: 18px;
+        overflow: hidden;
+      }
+
+      h1,
+      h2 {
+        margin: 0;
+      }
+
+      p {
+        line-height: 1.6;
+        margin: 0;
+      }
+
+      .muted {
+        color: var(--muted);
+      }
+
+      .links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 16px;
+      }
+
+      a {
+        color: var(--accent);
+      }
+
+      .pill {
+        display: inline-block;
+        padding: 10px 14px;
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        text-decoration: none;
+        background: #fff;
+      }
+
+      .episode {
+        margin-top: 24px;
+      }
+
+      audio {
+        width: 100%;
+        margin-top: 16px;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="hero">
+        <img class="cover" src="./cover.jpg" alt="Language Transfer Spanish cover art" />
+        <div>
+          <p class="muted">Podcast feed</p>
+          <h1>Language Transfer Spanish</h1>
+          <div class="links">
+            <a class="pill" href="./feed.xml">Open RSS feed</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="episode">
+        <p class="muted">Available episodes</p>
+        <h2>Complete Spanish 16</h2>
+        <audio controls preload="none" src="./audio/16.mp3"></audio>
+      </section>
+    </main>
+  </body>
+</html>
