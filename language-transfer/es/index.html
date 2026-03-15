@@ -30,7 +30,7 @@
       }
 
       main {
-        max-width: 760px;
+        max-width: 1080px;
         margin: 0 auto;
         padding: 48px 20px 64px;
       }
@@ -69,7 +69,8 @@
         color: var(--muted);
       }
 
-      .links {
+      .links,
+      .episode-links {
         display: flex;
         flex-wrap: wrap;
         gap: 12px;
@@ -89,13 +90,16 @@
         background: #fff;
       }
 
-      .episode {
+      .episode-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 16px;
         margin-top: 24px;
       }
 
-      audio {
-        width: 100%;
-        margin-top: 16px;
+      .episode {
+        display: grid;
+        gap: 10px;
       }
     </style>
   </head>
@@ -112,11 +116,728 @@
         </div>
       </section>
 
-      <section class="episode">
-        <p class="muted">Available episodes</p>
-        <h2>Complete Spanish 16</h2>
-        <audio controls preload="none" src="./audio/16.mp3"></audio>
-      </section>
+      <div class="episode-list">
+        <section class="episode">
+          <h2>Complete Spanish 01</h2>
+          <p class="muted">Episode 1</p>
+          <div class="episode-links">
+            <a href="./audio/01.mp3">Audio</a>
+            <a href="./transcripts/01.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 02</h2>
+          <p class="muted">Episode 2</p>
+          <div class="episode-links">
+            <a href="./audio/02.mp3">Audio</a>
+            <a href="./transcripts/02.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 03</h2>
+          <p class="muted">Episode 3</p>
+          <div class="episode-links">
+            <a href="./audio/03.mp3">Audio</a>
+            <a href="./transcripts/03.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 04</h2>
+          <p class="muted">Episode 4</p>
+          <div class="episode-links">
+            <a href="./audio/04.mp3">Audio</a>
+            <a href="./transcripts/04.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 05</h2>
+          <p class="muted">Episode 5</p>
+          <div class="episode-links">
+            <a href="./audio/05.mp3">Audio</a>
+            <a href="./transcripts/05.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 06</h2>
+          <p class="muted">Episode 6</p>
+          <div class="episode-links">
+            <a href="./audio/06.mp3">Audio</a>
+            <a href="./transcripts/06.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 07</h2>
+          <p class="muted">Episode 7</p>
+          <div class="episode-links">
+            <a href="./audio/07.mp3">Audio</a>
+            <a href="./transcripts/07.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 08</h2>
+          <p class="muted">Episode 8</p>
+          <div class="episode-links">
+            <a href="./audio/08.mp3">Audio</a>
+            <a href="./transcripts/08.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 09</h2>
+          <p class="muted">Episode 9</p>
+          <div class="episode-links">
+            <a href="./audio/09.mp3">Audio</a>
+            <a href="./transcripts/09.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 10</h2>
+          <p class="muted">Episode 10</p>
+          <div class="episode-links">
+            <a href="./audio/10.mp3">Audio</a>
+            <a href="./transcripts/10.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 11</h2>
+          <p class="muted">Episode 11</p>
+          <div class="episode-links">
+            <a href="./audio/11.mp3">Audio</a>
+            <a href="./transcripts/11.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 12</h2>
+          <p class="muted">Episode 12</p>
+          <div class="episode-links">
+            <a href="./audio/12.mp3">Audio</a>
+            <a href="./transcripts/12.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 13</h2>
+          <p class="muted">Episode 13</p>
+          <div class="episode-links">
+            <a href="./audio/13.mp3">Audio</a>
+            <a href="./transcripts/13.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 14</h2>
+          <p class="muted">Episode 14</p>
+          <div class="episode-links">
+            <a href="./audio/14.mp3">Audio</a>
+            <a href="./transcripts/14.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 15</h2>
+          <p class="muted">Episode 15</p>
+          <div class="episode-links">
+            <a href="./audio/15.mp3">Audio</a>
+            <a href="./transcripts/15.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 16</h2>
+          <p class="muted">Episode 16</p>
+          <div class="episode-links">
+            <a href="./audio/16.mp3">Audio</a>
+            <a href="./transcripts/16.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 17</h2>
+          <p class="muted">Episode 17</p>
+          <div class="episode-links">
+            <a href="./audio/17.mp3">Audio</a>
+            <a href="./transcripts/17.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 18</h2>
+          <p class="muted">Episode 18</p>
+          <div class="episode-links">
+            <a href="./audio/18.mp3">Audio</a>
+            <a href="./transcripts/18.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 19</h2>
+          <p class="muted">Episode 19</p>
+          <div class="episode-links">
+            <a href="./audio/19.mp3">Audio</a>
+            <a href="./transcripts/19.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 20</h2>
+          <p class="muted">Episode 20</p>
+          <div class="episode-links">
+            <a href="./audio/20.mp3">Audio</a>
+            <a href="./transcripts/20.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 21</h2>
+          <p class="muted">Episode 21</p>
+          <div class="episode-links">
+            <a href="./audio/21.mp3">Audio</a>
+            <a href="./transcripts/21.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 22</h2>
+          <p class="muted">Episode 22</p>
+          <div class="episode-links">
+            <a href="./audio/22.mp3">Audio</a>
+            <a href="./transcripts/22.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 23</h2>
+          <p class="muted">Episode 23</p>
+          <div class="episode-links">
+            <a href="./audio/23.mp3">Audio</a>
+            <a href="./transcripts/23.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 24</h2>
+          <p class="muted">Episode 24</p>
+          <div class="episode-links">
+            <a href="./audio/24.mp3">Audio</a>
+            <a href="./transcripts/24.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 25</h2>
+          <p class="muted">Episode 25</p>
+          <div class="episode-links">
+            <a href="./audio/25.mp3">Audio</a>
+            <a href="./transcripts/25.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 26</h2>
+          <p class="muted">Episode 26</p>
+          <div class="episode-links">
+            <a href="./audio/26.mp3">Audio</a>
+            <a href="./transcripts/26.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 27</h2>
+          <p class="muted">Episode 27</p>
+          <div class="episode-links">
+            <a href="./audio/27.mp3">Audio</a>
+            <a href="./transcripts/27.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 28</h2>
+          <p class="muted">Episode 28</p>
+          <div class="episode-links">
+            <a href="./audio/28.mp3">Audio</a>
+            <a href="./transcripts/28.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 29</h2>
+          <p class="muted">Episode 29</p>
+          <div class="episode-links">
+            <a href="./audio/29.mp3">Audio</a>
+            <a href="./transcripts/29.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 30</h2>
+          <p class="muted">Episode 30</p>
+          <div class="episode-links">
+            <a href="./audio/30.mp3">Audio</a>
+            <a href="./transcripts/30.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 31</h2>
+          <p class="muted">Episode 31</p>
+          <div class="episode-links">
+            <a href="./audio/31.mp3">Audio</a>
+            <a href="./transcripts/31.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 32</h2>
+          <p class="muted">Episode 32</p>
+          <div class="episode-links">
+            <a href="./audio/32.mp3">Audio</a>
+            <a href="./transcripts/32.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 33</h2>
+          <p class="muted">Episode 33</p>
+          <div class="episode-links">
+            <a href="./audio/33.mp3">Audio</a>
+            <a href="./transcripts/33.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 34</h2>
+          <p class="muted">Episode 34</p>
+          <div class="episode-links">
+            <a href="./audio/34.mp3">Audio</a>
+            <a href="./transcripts/34.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 35</h2>
+          <p class="muted">Episode 35</p>
+          <div class="episode-links">
+            <a href="./audio/35.mp3">Audio</a>
+            <a href="./transcripts/35.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 36</h2>
+          <p class="muted">Episode 36</p>
+          <div class="episode-links">
+            <a href="./audio/36.mp3">Audio</a>
+            <a href="./transcripts/36.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 37</h2>
+          <p class="muted">Episode 37</p>
+          <div class="episode-links">
+            <a href="./audio/37.mp3">Audio</a>
+            <a href="./transcripts/37.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 38</h2>
+          <p class="muted">Episode 38</p>
+          <div class="episode-links">
+            <a href="./audio/38.mp3">Audio</a>
+            <a href="./transcripts/38.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 39</h2>
+          <p class="muted">Episode 39</p>
+          <div class="episode-links">
+            <a href="./audio/39.mp3">Audio</a>
+            <a href="./transcripts/39.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 40</h2>
+          <p class="muted">Episode 40</p>
+          <div class="episode-links">
+            <a href="./audio/40.mp3">Audio</a>
+            <a href="./transcripts/40.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 41</h2>
+          <p class="muted">Episode 41</p>
+          <div class="episode-links">
+            <a href="./audio/41.mp3">Audio</a>
+            <a href="./transcripts/41.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 42</h2>
+          <p class="muted">Episode 42</p>
+          <div class="episode-links">
+            <a href="./audio/42.mp3">Audio</a>
+            <a href="./transcripts/42.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 43</h2>
+          <p class="muted">Episode 43</p>
+          <div class="episode-links">
+            <a href="./audio/43.mp3">Audio</a>
+            <a href="./transcripts/43.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 44</h2>
+          <p class="muted">Episode 44</p>
+          <div class="episode-links">
+            <a href="./audio/44.mp3">Audio</a>
+            <a href="./transcripts/44.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 45</h2>
+          <p class="muted">Episode 45</p>
+          <div class="episode-links">
+            <a href="./audio/45.mp3">Audio</a>
+            <a href="./transcripts/45.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 46</h2>
+          <p class="muted">Episode 46</p>
+          <div class="episode-links">
+            <a href="./audio/46.mp3">Audio</a>
+            <a href="./transcripts/46.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 47</h2>
+          <p class="muted">Episode 47</p>
+          <div class="episode-links">
+            <a href="./audio/47.mp3">Audio</a>
+            <a href="./transcripts/47.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 48</h2>
+          <p class="muted">Episode 48</p>
+          <div class="episode-links">
+            <a href="./audio/48.mp3">Audio</a>
+            <a href="./transcripts/48.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 49</h2>
+          <p class="muted">Episode 49</p>
+          <div class="episode-links">
+            <a href="./audio/49.mp3">Audio</a>
+            <a href="./transcripts/49.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 50</h2>
+          <p class="muted">Episode 50</p>
+          <div class="episode-links">
+            <a href="./audio/50.mp3">Audio</a>
+            <a href="./transcripts/50.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 51</h2>
+          <p class="muted">Episode 51</p>
+          <div class="episode-links">
+            <a href="./audio/51.mp3">Audio</a>
+            <a href="./transcripts/51.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 52</h2>
+          <p class="muted">Episode 52</p>
+          <div class="episode-links">
+            <a href="./audio/52.mp3">Audio</a>
+            <a href="./transcripts/52.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 53</h2>
+          <p class="muted">Episode 53</p>
+          <div class="episode-links">
+            <a href="./audio/53.mp3">Audio</a>
+            <a href="./transcripts/53.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 54</h2>
+          <p class="muted">Episode 54</p>
+          <div class="episode-links">
+            <a href="./audio/54.mp3">Audio</a>
+            <a href="./transcripts/54.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 55</h2>
+          <p class="muted">Episode 55</p>
+          <div class="episode-links">
+            <a href="./audio/55.mp3">Audio</a>
+            <a href="./transcripts/55.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 56</h2>
+          <p class="muted">Episode 56</p>
+          <div class="episode-links">
+            <a href="./audio/56.mp3">Audio</a>
+            <a href="./transcripts/56.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 57</h2>
+          <p class="muted">Episode 57</p>
+          <div class="episode-links">
+            <a href="./audio/57.mp3">Audio</a>
+            <a href="./transcripts/57.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 58</h2>
+          <p class="muted">Episode 58</p>
+          <div class="episode-links">
+            <a href="./audio/58.mp3">Audio</a>
+            <a href="./transcripts/58.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 59</h2>
+          <p class="muted">Episode 59</p>
+          <div class="episode-links">
+            <a href="./audio/59.mp3">Audio</a>
+            <a href="./transcripts/59.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 60</h2>
+          <p class="muted">Episode 60</p>
+          <div class="episode-links">
+            <a href="./audio/60.mp3">Audio</a>
+            <a href="./transcripts/60.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 61</h2>
+          <p class="muted">Episode 61</p>
+          <div class="episode-links">
+            <a href="./audio/61.mp3">Audio</a>
+            <a href="./transcripts/61.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 62</h2>
+          <p class="muted">Episode 62</p>
+          <div class="episode-links">
+            <a href="./audio/62.mp3">Audio</a>
+            <a href="./transcripts/62.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 63</h2>
+          <p class="muted">Episode 63</p>
+          <div class="episode-links">
+            <a href="./audio/63.mp3">Audio</a>
+            <a href="./transcripts/63.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 64</h2>
+          <p class="muted">Episode 64</p>
+          <div class="episode-links">
+            <a href="./audio/64.mp3">Audio</a>
+            <a href="./transcripts/64.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 65</h2>
+          <p class="muted">Episode 65</p>
+          <div class="episode-links">
+            <a href="./audio/65.mp3">Audio</a>
+            <a href="./transcripts/65.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 66</h2>
+          <p class="muted">Episode 66</p>
+          <div class="episode-links">
+            <a href="./audio/66.mp3">Audio</a>
+            <a href="./transcripts/66.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 67</h2>
+          <p class="muted">Episode 67</p>
+          <div class="episode-links">
+            <a href="./audio/67.mp3">Audio</a>
+            <a href="./transcripts/67.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 68</h2>
+          <p class="muted">Episode 68</p>
+          <div class="episode-links">
+            <a href="./audio/68.mp3">Audio</a>
+            <a href="./transcripts/68.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 69</h2>
+          <p class="muted">Episode 69</p>
+          <div class="episode-links">
+            <a href="./audio/69.mp3">Audio</a>
+            <a href="./transcripts/69.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 70</h2>
+          <p class="muted">Episode 70</p>
+          <div class="episode-links">
+            <a href="./audio/70.mp3">Audio</a>
+            <a href="./transcripts/70.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 71</h2>
+          <p class="muted">Episode 71</p>
+          <div class="episode-links">
+            <a href="./audio/71.mp3">Audio</a>
+            <a href="./transcripts/71.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 72</h2>
+          <p class="muted">Episode 72</p>
+          <div class="episode-links">
+            <a href="./audio/72.mp3">Audio</a>
+            <a href="./transcripts/72.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 73</h2>
+          <p class="muted">Episode 73</p>
+          <div class="episode-links">
+            <a href="./audio/73.mp3">Audio</a>
+            <a href="./transcripts/73.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 74</h2>
+          <p class="muted">Episode 74</p>
+          <div class="episode-links">
+            <a href="./audio/74.mp3">Audio</a>
+            <a href="./transcripts/74.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 75</h2>
+          <p class="muted">Episode 75</p>
+          <div class="episode-links">
+            <a href="./audio/75.mp3">Audio</a>
+            <a href="./transcripts/75.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 76</h2>
+          <p class="muted">Episode 76</p>
+          <div class="episode-links">
+            <a href="./audio/76.mp3">Audio</a>
+            <a href="./transcripts/76.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 77</h2>
+          <p class="muted">Episode 77</p>
+          <div class="episode-links">
+            <a href="./audio/77.mp3">Audio</a>
+            <a href="./transcripts/77.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 78</h2>
+          <p class="muted">Episode 78</p>
+          <div class="episode-links">
+            <a href="./audio/78.mp3">Audio</a>
+            <a href="./transcripts/78.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 79</h2>
+          <p class="muted">Episode 79</p>
+          <div class="episode-links">
+            <a href="./audio/79.mp3">Audio</a>
+            <a href="./transcripts/79.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 80</h2>
+          <p class="muted">Episode 80</p>
+          <div class="episode-links">
+            <a href="./audio/80.mp3">Audio</a>
+            <a href="./transcripts/80.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 81</h2>
+          <p class="muted">Episode 81</p>
+          <div class="episode-links">
+            <a href="./audio/81.mp3">Audio</a>
+            <a href="./transcripts/81.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 82</h2>
+          <p class="muted">Episode 82</p>
+          <div class="episode-links">
+            <a href="./audio/82.mp3">Audio</a>
+            <a href="./transcripts/82.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 83</h2>
+          <p class="muted">Episode 83</p>
+          <div class="episode-links">
+            <a href="./audio/83.mp3">Audio</a>
+            <a href="./transcripts/83.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 84</h2>
+          <p class="muted">Episode 84</p>
+          <div class="episode-links">
+            <a href="./audio/84.mp3">Audio</a>
+            <a href="./transcripts/84.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 85</h2>
+          <p class="muted">Episode 85</p>
+          <div class="episode-links">
+            <a href="./audio/85.mp3">Audio</a>
+            <a href="./transcripts/85.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 86</h2>
+          <p class="muted">Episode 86</p>
+          <div class="episode-links">
+            <a href="./audio/86.mp3">Audio</a>
+            <a href="./transcripts/86.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 87</h2>
+          <p class="muted">Episode 87</p>
+          <div class="episode-links">
+            <a href="./audio/87.mp3">Audio</a>
+            <a href="./transcripts/87.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 88</h2>
+          <p class="muted">Episode 88</p>
+          <div class="episode-links">
+            <a href="./audio/88.mp3">Audio</a>
+            <a href="./transcripts/88.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 89</h2>
+          <p class="muted">Episode 89</p>
+          <div class="episode-links">
+            <a href="./audio/89.mp3">Audio</a>
+            <a href="./transcripts/89.vtt">Transcript</a>
+          </div>
+        </section>
+        <section class="episode">
+          <h2>Complete Spanish 90</h2>
+          <p class="muted">Episode 90</p>
+          <div class="episode-links">
+            <a href="./audio/90.mp3">Audio</a>
+            <a href="./transcripts/90.vtt">Transcript</a>
+          </div>
+        </section>
+      </div>
     </main>
   </body>
 </html>

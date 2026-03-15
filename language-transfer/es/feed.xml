@@ -9,10 +9,11 @@
   <channel>
     <title>Language Transfer Spanish</title>
     <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
-    <description>Language Transfer Spanish podcast feed.</description>
+    <description>Please share far and wide and help us get this wonderful free resource out to as many people as possible!
+Please help support and shape LT for as little as $1 a month whilst voting for the next course to be created with The Thinking Method! www.patreon.com/languagetransfer</description>
     <language>en</language>
     <generator>Static GitHub Pages podcast feed</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 21:56:39 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 20:30:14 +0000</lastBuildDate>
     <atom:link
       href="https://johan456789.github.io/podcast/language-transfer/es/feed.xml"
       rel="self"
@@ -30,14 +31,1790 @@
       <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
     </image>
     <item>
+      <title>Complete Spanish 90</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 90 from the Complete Spanish course.</description>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-90</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/90.mp3"
+        length="6634759"
+        type="audio/mpeg"
+      />
+      <itunes:episode>90</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:53</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/90.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 90 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 89</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 89 from the Complete Spanish course.</description>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-89</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/89.mp3"
+        length="7991970"
+        type="audio/mpeg"
+      />
+      <itunes:episode>89</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:17</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/89.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 89 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 88</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 88 from the Complete Spanish course.</description>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-88</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/88.mp3"
+        length="9272204"
+        type="audio/mpeg"
+      />
+      <itunes:episode>88</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:37</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/88.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 88 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 87</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 87 from the Complete Spanish course.</description>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-87</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/87.mp3"
+        length="9913157"
+        type="audio/mpeg"
+      />
+      <itunes:episode>87</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:10:17</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/87.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 87 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 86</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 86 from the Complete Spanish course.</description>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-86</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/86.mp3"
+        length="8646730"
+        type="audio/mpeg"
+      />
+      <itunes:episode>86</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:58</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/86.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 86 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 85</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 85 from the Complete Spanish course.</description>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-85</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/85.mp3"
+        length="4689565"
+        type="audio/mpeg"
+      />
+      <itunes:episode>85</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:04:51</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/85.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 85 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 84</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 84 from the Complete Spanish course.</description>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-84</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/84.mp3"
+        length="7583633"
+        type="audio/mpeg"
+      />
+      <itunes:episode>84</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:52</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/84.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 84 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 83</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 83 from the Complete Spanish course.</description>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-83</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/83.mp3"
+        length="7885702"
+        type="audio/mpeg"
+      />
+      <itunes:episode>83</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:11</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/83.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 83 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 82</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 82 from the Complete Spanish course.</description>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-82</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/82.mp3"
+        length="6489367"
+        type="audio/mpeg"
+      />
+      <itunes:episode>82</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:44</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/82.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 82 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 81</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 81 from the Complete Spanish course.</description>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-81</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/81.mp3"
+        length="11491540"
+        type="audio/mpeg"
+      />
+      <itunes:episode>81</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:11:56</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/81.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 81 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 80</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 80 from the Complete Spanish course.</description>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-80</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/80.mp3"
+        length="6898596"
+        type="audio/mpeg"
+      />
+      <itunes:episode>80</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:09</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/80.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 80 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 79</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 79 from the Complete Spanish course.</description>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-79</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/79.mp3"
+        length="6899014"
+        type="audio/mpeg"
+      />
+      <itunes:episode>79</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:09</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/79.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 79 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 78</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 78 from the Complete Spanish course.</description>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-78</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/78.mp3"
+        length="9050309"
+        type="audio/mpeg"
+      />
+      <itunes:episode>78</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:23</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/78.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 78 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 77</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 77 from the Complete Spanish course.</description>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-77</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/77.mp3"
+        length="6668907"
+        type="audio/mpeg"
+      />
+      <itunes:episode>77</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:55</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/77.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 77 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 76</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 76 from the Complete Spanish course.</description>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-76</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/76.mp3"
+        length="7881782"
+        type="audio/mpeg"
+      />
+      <itunes:episode>76</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:10</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/76.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 76 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 75</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 75 from the Complete Spanish course.</description>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-75</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/75.mp3"
+        length="8990063"
+        type="audio/mpeg"
+      />
+      <itunes:episode>75</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:20</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/75.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 75 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 74</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 74 from the Complete Spanish course.</description>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-74</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/74.mp3"
+        length="8791753"
+        type="audio/mpeg"
+      />
+      <itunes:episode>74</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:07</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/74.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 74 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 73</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 73 from the Complete Spanish course.</description>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-73</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/73.mp3"
+        length="7766311"
+        type="audio/mpeg"
+      />
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:03</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/73.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 73 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 72</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 72 from the Complete Spanish course.</description>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-72</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/72.mp3"
+        length="12520748"
+        type="audio/mpeg"
+      />
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:13:00</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/72.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 72 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 71</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 71 from the Complete Spanish course.</description>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-71</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/71.mp3"
+        length="12198179"
+        type="audio/mpeg"
+      />
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:12:40</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/71.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 71 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 70</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 70 from the Complete Spanish course.</description>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-70</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/70.mp3"
+        length="10563998"
+        type="audio/mpeg"
+      />
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:10:58</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/70.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 70 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 69</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 69 from the Complete Spanish course.</description>
+      <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-69</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/69.mp3"
+        length="9144026"
+        type="audio/mpeg"
+      />
+      <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:29</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/69.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 69 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 68</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 68 from the Complete Spanish course.</description>
+      <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-68</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/68.mp3"
+        length="7858353"
+        type="audio/mpeg"
+      />
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:09</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/68.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 68 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 67</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 67 from the Complete Spanish course.</description>
+      <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-67</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/67.mp3"
+        length="11279005"
+        type="audio/mpeg"
+      />
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:11:43</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/67.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 67 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 66</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 66 from the Complete Spanish course.</description>
+      <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-66</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/66.mp3"
+        length="4789557"
+        type="audio/mpeg"
+      />
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:04:57</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/66.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 66 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 65</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 65 from the Complete Spanish course.</description>
+      <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-65</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/65.mp3"
+        length="14532306"
+        type="audio/mpeg"
+      />
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:06</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/65.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 65 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 64</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 64 from the Complete Spanish course.</description>
+      <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-64</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/64.mp3"
+        length="12898124"
+        type="audio/mpeg"
+      />
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:13:24</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/64.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 64 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 63</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 63 from the Complete Spanish course.</description>
+      <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-63</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/63.mp3"
+        length="4796250"
+        type="audio/mpeg"
+      />
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:04:58</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/63.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 63 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 62</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 62 from the Complete Spanish course.</description>
+      <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-62</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/62.mp3"
+        length="11439661"
+        type="audio/mpeg"
+      />
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:11:53</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/62.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 62 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 61</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 61 from the Complete Spanish course.</description>
+      <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-61</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/61.mp3"
+        length="7694350"
+        type="audio/mpeg"
+      />
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:59</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/61.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 61 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 60</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 60 from the Complete Spanish course.</description>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-60</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/60.mp3"
+        length="8123186"
+        type="audio/mpeg"
+      />
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:26</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/60.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 60 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 59</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 59 from the Complete Spanish course.</description>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-59</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/59.mp3"
+        length="10318411"
+        type="audio/mpeg"
+      />
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:10:43</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/59.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 59 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 58</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 58 from the Complete Spanish course.</description>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-58</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/58.mp3"
+        length="8810580"
+        type="audio/mpeg"
+      />
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:08</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/58.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 58 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 57</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 57 from the Complete Spanish course.</description>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-57</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/57.mp3"
+        length="11068979"
+        type="audio/mpeg"
+      />
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:11:29</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/57.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 57 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 56</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 56 from the Complete Spanish course.</description>
+      <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-56</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/56.mp3"
+        length="13218183"
+        type="audio/mpeg"
+      />
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:13:44</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/56.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 56 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 55</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 55 from the Complete Spanish course.</description>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-55</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/55.mp3"
+        length="15065318"
+        type="audio/mpeg"
+      />
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:39</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/55.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 55 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 54</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 54 from the Complete Spanish course.</description>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-54</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/54.mp3"
+        length="9354889"
+        type="audio/mpeg"
+      />
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:42</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/54.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 54 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 53</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 53 from the Complete Spanish course.</description>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-53</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/53.mp3"
+        length="8009806"
+        type="audio/mpeg"
+      />
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:18</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/53.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 53 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 52</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 52 from the Complete Spanish course.</description>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-52</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/52.mp3"
+        length="13959965"
+        type="audio/mpeg"
+      />
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:14:30</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/52.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 52 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 51</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 51 from the Complete Spanish course.</description>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-51</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/51.mp3"
+        length="11870171"
+        type="audio/mpeg"
+      />
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:12:19</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/51.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 51 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 50</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 50 from the Complete Spanish course.</description>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-50</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/50.mp3"
+        length="9040268"
+        type="audio/mpeg"
+      />
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:23</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/50.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 50 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 49</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 49 from the Complete Spanish course.</description>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-49</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/49.mp3"
+        length="10421750"
+        type="audio/mpeg"
+      />
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:10:49</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/49.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 49 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 48</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 48 from the Complete Spanish course.</description>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-48</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/48.mp3"
+        length="10590356"
+        type="audio/mpeg"
+      />
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:11:00</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/48.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 48 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 47</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 47 from the Complete Spanish course.</description>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-47</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/47.mp3"
+        length="9234814"
+        type="audio/mpeg"
+      />
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:35</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/47.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 47 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 46</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 46 from the Complete Spanish course.</description>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-46</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/46.mp3"
+        length="10433882"
+        type="audio/mpeg"
+      />
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:10:50</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/46.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 46 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 45</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 45 from the Complete Spanish course.</description>
+      <pubDate>Thu, 14 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-45</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/45.mp3"
+        length="12376408"
+        type="audio/mpeg"
+      />
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:12:51</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/45.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 45 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 44</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 44 from the Complete Spanish course.</description>
+      <pubDate>Thu, 14 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-44</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/44.mp3"
+        length="9740213"
+        type="audio/mpeg"
+      />
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:10:07</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/44.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 44 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 43</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 43 from the Complete Spanish course.</description>
+      <pubDate>Thu, 14 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-43</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/43.mp3"
+        length="8754935"
+        type="audio/mpeg"
+      />
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:05</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/43.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 43 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 42</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 42 from the Complete Spanish course.</description>
+      <pubDate>Thu, 14 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-42</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/42.mp3"
+        length="6814920"
+        type="audio/mpeg"
+      />
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:04</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/42.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 42 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 41</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 41 from the Complete Spanish course.</description>
+      <pubDate>Thu, 14 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-41</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/41.mp3"
+        length="12618230"
+        type="audio/mpeg"
+      />
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:13:06</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/41.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 41 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 40</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 40 from the Complete Spanish course.</description>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-40</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/40.mp3"
+        length="12186464"
+        type="audio/mpeg"
+      />
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:12:39</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/40.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 40 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 39</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 39 from the Complete Spanish course.</description>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-39</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/39.mp3"
+        length="10190387"
+        type="audio/mpeg"
+      />
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:10:35</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/39.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 39 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 38</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 38 from the Complete Spanish course.</description>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-38</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/38.mp3"
+        length="9064534"
+        type="audio/mpeg"
+      />
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:24</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/38.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 38 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 37</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 37 from the Complete Spanish course.</description>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-37</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/37.mp3"
+        length="12829929"
+        type="audio/mpeg"
+      />
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:13:19</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/37.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 37 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 36</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 36 from the Complete Spanish course.</description>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-36</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/36.mp3"
+        length="10636796"
+        type="audio/mpeg"
+      />
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:11:02</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/36.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 36 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 35</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 35 from the Complete Spanish course.</description>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-35</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/35.mp3"
+        length="5492011"
+        type="audio/mpeg"
+      />
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:05:41</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/35.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 35 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 34</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 34 from the Complete Spanish course.</description>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-34</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/34.mp3"
+        length="8777109"
+        type="audio/mpeg"
+      />
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:06</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/34.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 34 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 33</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 33 from the Complete Spanish course.</description>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-33</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/33.mp3"
+        length="8404753"
+        type="audio/mpeg"
+      />
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:43</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/33.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 33 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 32</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 32 from the Complete Spanish course.</description>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-32</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/32.mp3"
+        length="9308030"
+        type="audio/mpeg"
+      />
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:40</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/32.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 32 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 31</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 31 from the Complete Spanish course.</description>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-31</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/31.mp3"
+        length="6746307"
+        type="audio/mpeg"
+      />
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:00</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/31.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 31 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 30</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 30 from the Complete Spanish course.</description>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-30</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/30.mp3"
+        length="7234552"
+        type="audio/mpeg"
+      />
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:30</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/30.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 30 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 29</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 29 from the Complete Spanish course.</description>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-29</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/29.mp3"
+        length="8461653"
+        type="audio/mpeg"
+      />
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:47</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/29.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 29 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 28</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 28 from the Complete Spanish course.</description>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-28</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/28.mp3"
+        length="10948905"
+        type="audio/mpeg"
+      />
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:11:22</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/28.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 28 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 27</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 27 from the Complete Spanish course.</description>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-27</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/27.mp3"
+        length="10356483"
+        type="audio/mpeg"
+      />
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:10:45</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/27.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 27 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 26</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 26 from the Complete Spanish course.</description>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-26</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/26.mp3"
+        length="8418142"
+        type="audio/mpeg"
+      />
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:44</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/26.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 26 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 25</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 25 from the Complete Spanish course.</description>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-25</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/25.mp3"
+        length="11669351"
+        type="audio/mpeg"
+      />
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:12:07</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/25.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 25 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 24</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 24 from the Complete Spanish course.</description>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-24</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/24.mp3"
+        length="5537197"
+        type="audio/mpeg"
+      />
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:05:44</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/24.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 24 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 23</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 23 from the Complete Spanish course.</description>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-23</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/23.mp3"
+        length="6723714"
+        type="audio/mpeg"
+      />
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:58</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/23.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 23 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 22</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 22 from the Complete Spanish course.</description>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-22</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/22.mp3"
+        length="12682242"
+        type="audio/mpeg"
+      />
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:13:10</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/22.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 22 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 21</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 21 from the Complete Spanish course.</description>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-21</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/21.mp3"
+        length="11761812"
+        type="audio/mpeg"
+      />
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:12:13</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/21.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 21 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 20</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 20 from the Complete Spanish course.</description>
+      <pubDate>Mon, 04 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-20</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/20.mp3"
+        length="9016361"
+        type="audio/mpeg"
+      />
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:21</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/20.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 20 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 19</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 19 from the Complete Spanish course.</description>
+      <pubDate>Mon, 04 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-19</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/19.mp3"
+        length="6777206"
+        type="audio/mpeg"
+      />
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:02</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/19.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 19 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 18</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 18 from the Complete Spanish course.</description>
+      <pubDate>Mon, 04 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-18</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/18.mp3"
+        length="6598977"
+        type="audio/mpeg"
+      />
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:50</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/18.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 18 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 17</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 17 from the Complete Spanish course.</description>
+      <pubDate>Mon, 04 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-17</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/17.mp3"
+        length="12873380"
+        type="audio/mpeg"
+      />
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:13:22</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/17.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 17 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
       <title>Complete Spanish 16</title>
       <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
       <description>Episode 16 from the Complete Spanish course.</description>
-      <pubDate>Sun, 15 Mar 2026 21:56:39 +0800</pubDate>
+      <pubDate>Mon, 04 Aug 2014 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">language-transfer-es-16</guid>
       <enclosure
         url="https://johan456789.github.io/podcast/language-transfer/es/audio/16.mp3"
-        length="7336239"
+        length="7361261"
         type="audio/mpeg"
       />
       <itunes:episode>16</itunes:episode>
@@ -51,7 +1828,366 @@
       />
       <content:encoded><![CDATA[
         <p>Episode 16 from the Complete Spanish course.</p>
-        <p><a href="https://johan456789.github.io/podcast/language-transfer/es/audio/16.mp3">Download MP3</a></p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 15</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 15 from the Complete Spanish course.</description>
+      <pubDate>Sun, 03 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-15</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/15.mp3"
+        length="8666295"
+        type="audio/mpeg"
+      />
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:00</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/15.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 15 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 14</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 14 from the Complete Spanish course.</description>
+      <pubDate>Sun, 03 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-14</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/14.mp3"
+        length="14598053"
+        type="audio/mpeg"
+      />
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:15:10</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/14.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 14 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 13</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 13 from the Complete Spanish course.</description>
+      <pubDate>Sun, 03 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-13</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/13.mp3"
+        length="9273783"
+        type="audio/mpeg"
+      />
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:37</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/13.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 13 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 12</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 12 from the Complete Spanish course.</description>
+      <pubDate>Sun, 03 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-12</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/12.mp3"
+        length="13371373"
+        type="audio/mpeg"
+      />
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:13:53</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/12.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 12 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 11</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 11 from the Complete Spanish course.</description>
+      <pubDate>Sun, 03 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-11</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/11.mp3"
+        length="10464065"
+        type="audio/mpeg"
+      />
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:10:52</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/11.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 11 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 10</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 10 from the Complete Spanish course.</description>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-10</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/10.mp3"
+        length="11996564"
+        type="audio/mpeg"
+      />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:12:27</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/10.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 10 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 09</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 9 from the Complete Spanish course.</description>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-09</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/09.mp3"
+        length="8795552"
+        type="audio/mpeg"
+      />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:08</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/09.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 9 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 08</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 8 from the Complete Spanish course.</description>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-08</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/08.mp3"
+        length="7278516"
+        type="audio/mpeg"
+      />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:33</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/08.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 8 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 07</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 7 from the Complete Spanish course.</description>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-07</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/07.mp3"
+        length="9870372"
+        type="audio/mpeg"
+      />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:10:15</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/07.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 7 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 06</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 6 from the Complete Spanish course.</description>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-06</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/06.mp3"
+        length="6824164"
+        type="audio/mpeg"
+      />
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:04</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/06.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 6 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 05</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 5 from the Complete Spanish course.</description>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-05</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/05.mp3"
+        length="9063734"
+        type="audio/mpeg"
+      />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:09:24</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/05.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 5 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 04</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 4 from the Complete Spanish course.</description>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-04</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/04.mp3"
+        length="8168411"
+        type="audio/mpeg"
+      />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:28</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/04.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 4 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 03</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 3 from the Complete Spanish course.</description>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-03</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/03.mp3"
+        length="6022132"
+        type="audio/mpeg"
+      />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:14</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/03.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 3 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 02</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 2 from the Complete Spanish course.</description>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-02</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/02.mp3"
+        length="7686015"
+        type="audio/mpeg"
+      />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:58</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/02.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 2 from the Complete Spanish course.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Complete Spanish 01</title>
+      <link>https://johan456789.github.io/podcast/language-transfer/es/</link>
+      <description>Episode 1 from the Complete Spanish course.</description>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">language-transfer-es-01</guid>
+      <enclosure
+        url="https://johan456789.github.io/podcast/language-transfer/es/audio/01.mp3"
+        length="5369043"
+        type="audio/mpeg"
+      />
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:05:34</itunes:duration>
+      <podcast:transcript
+        url="https://johan456789.github.io/podcast/language-transfer/es/transcripts/01.vtt"
+        type="text/vtt"
+        language="es"
+        rel="captions"
+      />
+      <content:encoded><![CDATA[
+        <p>Episode 1 from the Complete Spanish course.</p>
       ]]></content:encoded>
     </item>
   </channel>
