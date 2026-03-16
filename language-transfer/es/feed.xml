@@ -22,6 +22,7 @@ Please help support and shape LT for as little as $1 a month whilst voting for t
     <itunes:author>Language Transfer</itunes:author>
     <itunes:summary>Hosted mirror for Language Transfer's Complete Spanish lessons.</itunes:summary>
     <itunes:image href="https://johan456789.github.io/podcast/language-transfer/es/cover.jpg" />
+    <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Education" />
