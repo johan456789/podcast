@@ -62,9 +62,7 @@ Specific actual values are indicated with double quotes, like this: `"2"`. These
 are possible, they are separated by a pipe: `"1" | "2" | "3"`.
 
 <aside aria-description="Developer information">
-
 Text intended to guide developers in how to meet editorial guidelines is placed in sections like this within the Presentation section.
-
 </aside>
 
 Example sections are inset and styled with a side border.
@@ -316,16 +314,13 @@ even 25 characters might not fit.</p>
 </table>
 
 <aside aria-description="Developer information">
-
 In EBU-TT-based implementations, line length is determined by the following attributes:
 - [tt:region](#tt-region) ([tts:extent](#tts-extent) attribute)
 - [ttp:cellResolution](#ttp:cellResolution)
 - [tts:fontFamily](#tts-fontFamily)
 - [tts:fontSize](#tts-fontSize)
 - [ebutts:linePadding](#ebutts-linePadding)
-
 Explicit new lines within paragraphs are signalled using [<tt:br>](#tt-br) elements.
-
 </aside>
 
 #### 3.2 Subtitles should contain single sentences {#Subtitles-should-contain-single-sentences}
@@ -345,9 +340,7 @@ When deciding between one long line or two short ones,
 consider line breaks, number of words, pace of speech and the image.
 
 <aside aria-description="Developer information">
-
 A [tt:region](#tt-region) sized to fit 3 lines at a recommended computed value of [tts:lineHeight](#tts-lineHeight) of 8% of the height of the root container region would have a minimum [tts:extent](#tts-extent) height of 24%.
-
 </aside>
 
 #### 3.4 Break at natural points {#Break-at-natural-points}
@@ -373,9 +366,7 @@ better television service.</s></samp>
 Line breaks within a word are especially disruptive to the reading process and should be avoided. Ideal formatting should therefore compromise between linguistic and geometric considerations but with priority given to linguistic considerations.
 
 <aside aria-description="Developer information">
-
 Manual line breaks within [<tt:p>](#tt-p) and [<tt:span>](#tt-span) elements are specified using `<tt:br/>`. Automatic line breaks occur between adjacent active [<tt:p>](#tt-p) elements.
-
 </aside>
 
 #### 3.5 Breaks in justified subtitles {#Breaks-in-justified-subtitles}
@@ -417,9 +408,7 @@ me you would be<br>
 here.</samp>
 
 <aside aria-description="Developer information">
-
 Left, centre and right justification can be specified using [tts:textAlign](#tts-textAlign); additional alignment options are available using [ebutts:multiRowAlign](#ebutts-multiRowAlign).
-
 </aside>
 
 #### 3.6 Consider the image {#Consider-the-image}
@@ -474,9 +463,7 @@ In the examples given above, no markers are used to indicate that segmentation i
 mark the fact that a segmentation is taking place, especially in legacy subtitle files.
 
 <aside aria-description="Developer information">
-
 Because line breaks require considering all of the above, they are better inserted manually. Implementers should avoid automatic line breaking. See the [tts:wrapOption](#tts-wrapOption) XML attribute.
-
 </aside>
 
 #### 3.10 Prioritise editing and timing over line breaks {#Prioritise-editing-and-timing-over-line-breaks}
@@ -490,10 +477,8 @@ The recommended subtitle speed is 160-180 words-per-minute (WPM) or 0.33 to 0.37
 tools calculate the WPM and can be configured to give a warning when the word rate exceeds a certain WPM threshhold. You can also calculate the WPM manually (see box).
 
 <aside aria-description="Developer information">
-
 To calculate the word-per-minute (WPM) speed of a subtitle in an EBU-TT document, divide the number of words in a subtitle ([<tt:p>](#tt-p) element) by its duration. The duration value can be calculated from the `begin` and `end` attributes. In the example fragment below, the first subtitle has a word rate of 2 words per second or 120 WPM (0.5s per word). The second subtitle is cumulative: the word 'three' appears on its own for 3 seconds, then 'four!' is added
 and both are displayed for another 2 seconds, giving 5 seconds for 'three' and 2 seconds for 'four!'. Note that end times in EBU-TT are exclusive.
-
 ```
 <p xml:id="subtitle1" region="bottomRegion" style="paragraphStyle"
 begin="00:00:02" end="00:00:04">
@@ -504,7 +489,6 @@ begin="00:00:02" end="00:00:04">
   <span style="spanStyle" begin="00:01:33" end="00:01:35">Four!</span>
 </p>
 ```
-
 </aside>
 
 #### 4.1 Target minimum timing {#Target-minimum-timing}
@@ -612,9 +596,7 @@ However, if the speaker is very easy to lip-read, slipping out of sync even by a
 Note that some decoders might override the end timing of a subtitle so that it stays on screen until the next one appears. This is a non-compliant behaviour that the subtitle author and broadcaster have no control over.
 
 <aside aria-description="Developer information">
-
 Decoders need to match the begin and end timing specified in documents as closely as possible to maintain the careful synchronisation we expect from subtitle authors. In particular, see Annex E of [EBU-TT-D](https://tech.ebu.ch/publications/tech3380)                regarding quantisation of timing for example if the video can only be presented at a low frame rate, such as in poor network conditions.
-
 </aside>
 
 #### 5.3 Display subtitles when lips are moving {#Display-subtitles-when-lips-are-moving}
@@ -656,9 +638,7 @@ Avoid creating subtitles that straddle a shot change (i.e. a subtitle that start
 new sentence to coincide with the shot change.
 
 <aside aria-description="Developer information">
-
 Authoring tools may use automated shot detection to avoid this scenario.
-
 </aside>
 
 #### 6.4 Merge subtitles for short shots {#Merge-subtitles-for-short-shots}
@@ -715,9 +695,7 @@ However, if two or more WHITE text speakers are interacting, you have to start a
 By convention, the narrator is indicated by a yellow colour.
 
 <aside aria-description="Developer information">
-
 Colour is implemented using [tts:color](#tts-color) and [tt:span](#tt-span).
-
 </aside>
 
 #### 7.2 Use horizontal positioning {#Use-horizontal-positioning}
@@ -744,14 +722,12 @@ Not:
 When characters move about while speaking, the caption should be positioned at the discretion of the subtitler to identify the position of the speaker as clearly as possible.
 
 <aside aria-description="Developer information">
-
 Horizontal positioning is determined by these EBU-TT attributes:
 - [tts:direction](https://www.w3.org/TR/ttml1/#style-attribute-direction) (TTML1 specification link)
 - [tts:textAlign](#tts-textAlign)
 - [ebutts:multiRowAlign](#ebutts-multiRowAlign)
 - [tts:unicodeBidi](https://www.w3.org/TR/ttml1/#style-attribute-unicodeBidi) (TTML1 specification link)
 - [tts:writingMode](#tts-writingMode)
-
 </aside>
 
 #### 7.3 Use dashes {#Use-dashes}
@@ -844,19 +820,15 @@ you'll be the first to know.</s></samp>
 If possible, make the arrow clearly visible by keeping it clear of any other lines of text, i.e. the text following the arrow and the text in any lines below it are aligned. However, not all formats support hanging indent well.
 
 <aside aria-description="Developer information">
-
 The `<` and `>`
 characters are not permitted directly
 within XML (EBU-TT or EBU-TT-D) character content.
 See [Encoding characters](#Encoding-characters)
 for information about how to escape them correctly.
-
 </aside>
 
 <aside aria-description="Developer information">
-
 Non-breaking spaces can be inserted to simulate the indent behaviour reasonably closely.
-
 </aside>
 
 <samp class="example">&lt; When I find out
@@ -906,11 +878,9 @@ Three or more:
 The subtitle file formats used by the BBC allow non-presentation metadata that can be used to include information about the speaker of a subtitle. Including this information is useful for searching, identifying speakers and other purposes.
 
 <aside aria-description="Developer information">
-
 Speakers can be identified using the `ttm:agent` attribute defined in the `tt/head/metadata` element and [referenced](#Element-references-and-xml-id-attributes) by a
 [tt:span](#tt-span) element. This should be used wherever possible in <u class="flag-EBU-TT-10">EBU-TT 1.0</u> documents and may be removed from <u class="flag-EBU-TT-D">EBU-TT-D</u> documents prior to distribution,
 if the data is not needed by the presentation processor.
-
 </aside>
 
 ### 8 Colours {#Colours}
@@ -922,12 +892,9 @@ Most subtitles are typed in white text on a black background to ensure optimum l
 See [Stress](#Stress) for the single case where colour may be used for emphasis.
 
 <aside aria-description="Developer information">
-
 Colours are implemented using [tts:color](#tts-color) and [tts:backgroundColor](#tts-backgroundColor) [applied](#Applying-style-attributes-to-content-elements) to a
 [tt:span](#tt-span).
-
 Where two words are in different colours the space must be placed within one of the `tt:span` elements, usually as the first character of the second span.
-
 </aside>
 
 #### 8.2 Avoid coloured background {#Avoid-coloured-background}
@@ -1088,9 +1055,7 @@ can adversely impact clarity of presented text.</td>
 </table>
 
 <aside aria-description="Developer information">
-
 For implementation details, see [tts:fontFamily](#tts-fontFamily).
-
 </aside>
 
 #### 9.2 Size {#Size}
@@ -1159,12 +1124,10 @@ Reduced font size, defined region:
 Better to define the region so that it does not cover the face and avoid white space.
 
 <aside aria-description="Developer information">
-
 The font size is determined by [tts:fontSize](#tts-fontSize)
 in combination with [ttp:cellResolution](#ttp-cellResolution).
 The line height is determined by [tts:lineHeight](#tts-lineHeight)
 and is relative to the font size of the element on which the line height is set.
-
 The 8% value originates in Teletext,
 where it is approximately the height of a double height line,
 with the Teletext rendering area covering around 90% of the video area height,
@@ -1177,14 +1140,12 @@ The double height line was used instead of a single height line for readability
 when commonly used television sizes were much smaller than today's median sizes
 (see [BBC R&D White Paper 287 (PDF)](http://downloads.bbc.co.uk/rd/pubs/whp/whp-pdf-files/WHP287.pdf)
 for relevant research on this).
-
 The 4.5% value results from adjusting the 8% value as applied to a 16:9 aspect ratio
 video for a 9:16 vertical video, i.e. by multiplying it by 9/16,
 so that subtitle text is approximately the same size on a landscape video as on a portrait/vertical video;
 since text size is proportional to the video height,
 8% of a vertical video is much larger than 8% of a landscape video,
 when each is rotated to fill the same 16:9 ratio display.
-
 </aside>
 
 ##### 9.2.2 Presentation font size {#Presentation-font-size}
@@ -1283,11 +1244,9 @@ size adjustment needed for vertical (9:16) video.
 In the absence of other information, a default size of 0.5° subtended at the eye may be used to derive the default line height and calculate the multiplier, however this may be too small for some devices.
 
 <aside aria-description="Developer information">
-
 When scaling down the font size, the processor should respect all other styling attributes. Subtitle text should be scaled by applying the multiplier to the values of
 `tts:fontSize` and
 `ebutts:linePadding`. In EBU-TT-D line height is specified as a percentage of font size, so its computed value scales proportionally without having to modify the value of `tts:lineHeight`.
-
 </aside>
 
 ##### 9.2.3 Additional adjustments for Reith Sans font {#Additional-adjustments-for-Reith-Sans-font}
@@ -1306,25 +1265,21 @@ so the contents of this section have been removed.
 The width of the background is calculated per line, rather than being the largest rectangle that can fit all the displayed lines in.
 
 <aside aria-description="Developer information">
-
 To achieve this, wrap the text in a [tt:span](#tt:span) and
 [apply](#Applying-style-attributes-to-content-elements) a [tts:backgroundColor](#tts:backgroundColor) style to the
 [tt:span](#tt:span) by [referencing](#Element-references-and-xml-id-attributes)
 a `<tt:style>` element that sets that style attribute.
-
 </aside>
 
 The height of the background should be the height of the line; there should be no gap between background areas of successive lines.
 
 <aside aria-description="Developer information">
-
 [Reference](#Element-references-and-xml-id-attributes) a `<tt:style>` element that sets
 [itts:fillLineGap="true"](#itts:fillLineGap) from the
 [tt:p](#tt:p) parent, or its
 [tt:div](#tt:div) ancestor,
 to instruct the processor to
 fill gaps between adjacent line background areas.
-
 </aside>
 
 On both sides of every line, the background colour should extend by the width of 0.5 em.
@@ -1332,14 +1287,12 @@ On both sides of every line, the background colour should extend by the width of
 <img src="/accessibility/forproducts/guides/subtitles/img/10.2-1.png" alt="Image showing background colour calculated per line with no gaps between background areas of consecutive lines.">
 
 <aside aria-description="Developer information">
-
 In EBU-TT-D, the background of lines is extended using [ebutts:linePadding](#ebutts-linePadding).
 Note, however, that the size of line padding is expressed in cell units, requiring additional calculation.
 For this purpose, `1em` can be assumed to equal font size.
 See example in [ebutts:linePadding](#ebutts-linePadding).
 If scaling the presentation font size, a processor should reduce the value of
 `ebutts:linePadding` by the same factor.
-
 </aside>
 
 #### 9.3 Supported characters {#Supported-characters}
@@ -1375,11 +1328,8 @@ a black background. For the musical note, use ♫ (U+266B) instead.
 ##### 9.3.3 Encoding characters {#Encoding-characters}
 
 <aside aria-description="Developer information">
-
 In STL binary files, characters are encoded according to the table in [Appendix - STL and Teletext character sets](#Appendix-STL-and-Teletext-character-sets).
-
 Subtitles delivered as XML (EBU-TT or EBU-TT-D) require that characters with special significance in XML are escaped:
-
 <table>
 <colgroup>
 <col style="width: 15%;">
@@ -1411,33 +1361,23 @@ Subtitles delivered as XML (EBU-TT or EBU-TT-D) require that characters with spe
 </tr>
 </tbody>
 </table>
-
 Quote marks within subtitle content don't have to be escaped. This is valid:
-
 `<span style="spanStyle">"Hello"</span>`
-
 Note, however, that curly quotes are not included in the list of allowed characters (some word processors transform straight quotes to curly ones automatically).
-
 You may not be able directly to key in some of the other
 allowed characters. In this case you can use the decimal or
 hexadecimal Unicode code. For example, use
 `&#9835;`
 (which is the decimal code for the character ♫) like this:
-
 `<span style="spanStyle">&#9835; Happy birthday to you</span>`
-
 This will be displayed as:
-
 <samp class="example">♫ Happy birthday to you</samp>
-
 Hexadecimal Unicode character codes can alternatively be
 used with the syntax
 `&#x266B;`
 (decimal `9835` is equal to
 hexadecimal `266B`).
-
 You can view [a list of Unicode codes on the Unicode website](https://www.unicode.org/charts/).
-
 </aside>
 
 ### 10 Positioning {#Positioning}
@@ -1509,12 +1449,10 @@ In such cases,
 [horizontal positioning](#Horizontal-positioning) may be used.
 
 <aside aria-description="Developer information">
-
 Vertical positioning is controlled mainly by the
 [tt:region](#tt-region) element, which is defined using
 [tts:extent](#tts-extent) and [tts:origin](#tts-origin).
 However, other attributes can also affect positioning within the region. See [tts:displayAlign](#tts-displayAlign) for more details.
-
 </aside>
 
 #### 10.2 Under image positioning {#Under-image-positioning}
@@ -1553,11 +1491,9 @@ if appropriate.
 </figure>
 
 <aside aria-description="Developer information">
-
 Horizontal positioning is controlled by the
 [tt:region](#tt-region) element, whose size and position are defined using [tts:extent](#tts-extent) and [tts:origin](#tts-origin). Within the region, horizontal alignment of lines is achieved using
 [tts:textAlign](#tts-textAlign) and [ebutts:multiRowAlign](#ebutts-multiRowAlign).
-
 </aside>
 
 ### 11 Intonation and emotion {#Intonation-and-emotion}
@@ -1601,9 +1537,7 @@ used in most instances, with caps reserved for heavier emphasis (e.g. shouting).
 Note that there is currently little research to indicate the effectiveness of italics for emphasis in subtitles.
 
 <aside aria-description="Developer information">
-
 Italics can be specified by using `tts:fontStyle="italic"` on a style [referenced](#Element-references-and-xml-id-attributes) by a [tt:span](#tt:span).
-
 </aside>
 
 #### 11.3 Whisper {#Whisper}
@@ -1814,9 +1748,7 @@ Never edit characters' catchphrases.
 ### 16 Music and songs {#Music-and-songs}
 
 <aside aria-description="Developer information">
-
 <u class="flag-EBU-TT-10">EBU-TT 1.0</u> documents should set `ttm:role="music"` on the relevant [tt:p](#tt:p) or [tt:span](#tt:span) element to indicate that the contents represent music.
-
 </aside>
 
 #### 16.1 Label source music {#Label-source-music}
@@ -1913,11 +1845,9 @@ Where shots are not timed to song-lines, you should either take the subtitle to 
 All song-lines should be centred on the screen.
 
 <aside aria-description="Developer information">
-
 This can be achieved by [referencing](#Element-references-and-xml-id-attributes) a [tt:region](#tt-region) that is positioned centrally (horizontally), and a style with
 `tts:textAlign="center"` and [ebutts:multiRowAlign](#ebutts-multiRowAlign)
 either unspecified or set to `"auto"`.
-
 </aside>
 
 #### 16.9 Punctuation {#Punctuation}
@@ -1954,9 +1884,7 @@ never heard in the Bible... #</samp>
 ### 17 Sound effects {#Sound-effects}
 
 <aside aria-description="Developer information">
-
 <u class="flag-EBU-TT-10">EBU-TT 1.0</u> Sound effects should be labelled as such using an appropriate [ttm:role (TTML1 link)](https://www.w3.org/wiki/TTML/RoleRegistry), for example by adding the attribute `ttm:role="sound"` to the [tt:p](#tt:p) element.
-
 </aside>
 
 #### 17.1 Subtitle effects only when necessary {#Subtitle-effects-only-when-necessary}
@@ -1982,9 +1910,7 @@ not:
 A sound effect should be typed in white caps. It should sit on a separate line and be placed to the left of the screen - unless the sound source is obviously to the right, in which case place to the right.
 
 <aside aria-description="Developer information">
-
 There is no style attribute that enforces all caps; the text needs to be capitalised within the subtitle document.
-
 </aside>
 
 #### 17.4 Subject + verb {#Subject---verb}
@@ -2010,9 +1936,7 @@ Or
 <samp class="example"><s>ORDERS ARE SHOUTED BY JOHN</s></samp>
 
 <aside aria-description="Developer information">
-
 There is no obvious value for `ttm:role` for such labels. The closest fit is probably `"description"`.
-
 </aside>
 
 #### 17.5 In-vision translations {#In-vision-translations}
@@ -2116,14 +2040,12 @@ See the [list of supported characters](#Supported-characters) for currency symbo
 <u class="flag-online">online</u> Use the correct Unicode symbol for the currency, e.g. the Euro symbol €.
 
 <aside aria-description="Developer information">
-
 All subtitle documents should be encoded in UTF-8,
 however the actual set of code points usable in an
 <u class="flag-EBU-TT-10">EBU-TT 1.0</u> document intended for broadcast presentation is currently restricted to the [Teletext character
 set](#Appendix-STL-and-Teletext-character-sets).
  No such restriction exists for <u class="flag-EBU-TT-D">EBU-TT-D</u> documents intended for online-only presentation, however care should be taken that there is a reasonable expectation that the presentation device will have a font
 installed that contains glyphs for all the code points used.
-
 </aside>
 
 #### 18.4 Time {#Time}
@@ -2172,14 +2094,11 @@ Make sure there is sufficient time to read each segment of a cumulative, especia
 If you use cumulatives in children’s content, observe children’s timings.
 
 <aside aria-description="Developer information">
-
 Further detail on how to specify cumulatives is described in
 [tt:p](#tt-p) and [tt:span](#tt-span). Where possible, each individual word that forms part of a cumulative subtitle should be included in the subtitle document exactly once, with appropriate timing specified
 by putting groups of words that appear with the same timing within a `tt:span` with `begin` and `end` attributes. This allows the plain text of the subtitle transcript to be extracted more easily since there is no need to de-duplicate words.
-
 There is an alternative approach in which multiple `tt:p` elements are each timed to follow on from each other, with the first words being a repeat of the words in the previous `tt:p` and additional words appended. This approach creates the same
 visual effect but should be avoided.
-
 </aside>
 
 #### 19.4 Avoid cumulative where shots change {#Avoid-cumulative-where-shots-change}
@@ -2337,14 +2256,10 @@ If necessary, an apology should be made at the end of the programme. If possible
 Live subtitles should appear word by word, from left to right, to allow maximum reading time. Live subtitles are justified left (not centred).
 
 <aside aria-description="Developer information">
-
 Live subtitles should be placed in an appropriately sized
 [tt:region](#tt-region) with a preset [tts:origin](#tts-origin) x coordinate (for left to right text; for right to left text ensure the right edge is preset).
-
 A style with [tts:textAlign](#tts-textAlign) set to `"start"` (always works) or `"left"` for left to right text only or `"right"` for right to left text only should be used.
-
 [ebutts:multiRowAlign](#ebutts-multiRowAlign) should be avoided (i.e. left unset, or set to `"auto"`) since it can result in lines being moved horizontally whenever a new word appears.
-
 </aside>
 
 Two-lines of scrolling text should be used.
@@ -2354,16 +2269,12 @@ For live subtitling, use a reduced set of formatting techniques. Focus on colour
 - Scrolling subtitles, while usually appearing at the bottom of the screen, should be raised as appropriate in order to avoid any vital action, visual information, name labels, etc.
 
 <aside aria-description="Developer information">
-
 Subtitle vertical position can be set by [referencing](#Element-references-and-xml-id-attributes) a [tt:region](#tt-region) with appropriate [tts:origin](#tts-origin), [tts:extent](#tts-extent) and [tts:displayAlign](#tts-displayAlign)                            attributes.
-
 An alternative strategy is to insert `<tt:br/>` elements as necessary; for example if `tts:displayAlign="after"` then every `<tt:br/>` element appended after a subtitle will raise that subtitle by the height of the line. Although
 using line breaks for positioning is discouraged for prepared subtitles (see [Authoring font size](#Authoring-font-size)), this technique saves time when live subtitling. Note that if the region height is exceeded by entering too many
 line breaks, lines can 'fall off' the top, and be clipped.
-
 If a subtitle needs to be moved while it is visible and inserting `<tt:br/>` elements is not possible then the [<tt:p>](#tt:p) should be ended and a new `<tt:p>` begun that references a differently positioned region. That new `<tt:p>`
 can contain the same words and style references.
-
 </aside>
 
 ## FILE FORMAT {#FILE-FORMAT}
@@ -6298,12 +6209,10 @@ Illustrative diagram:
 <u class="flag-online">online</u> Prepared subtitles for online exclusives must be relative to a programme begin time of 00:00:00.000 .
 
 <aside aria-description="Developer information">
-
 EBU-TT (Part 1 v1.0) files captured from live created subtitles must set `bbctt:timecodeType` to
 `"timeOfDay"`. Time expressions must be in UTC. [EBU-TT 1.1] files should use `ttp:timeBase="clock"` and
 `ttp:clockMode="utc"` to indicate this information.
  For implementation details, see [ttp:timeBase](#ttp-timeBase).
-
 </aside>
 
 ### 27 EBU-TT and EBU-TT-D Documents in detail {#EBU-TT-and-EBU-TT-D-Documents-in-detail}
@@ -9156,145 +9065,3 @@ Rundfunktechnik](https://www.irt.de/en/home).
 
 [TTML examples](https://www.w3.org/TR/ttml1/) provided by [
 W3C Timed Text Working Group](https://www.w3.org/groups/wg/timed-text).
-
-[
-
-](#toc)
-
-"
-
-### Ran Playwright code
-```js
-await page.evaluate('() => {
-  const mainContent = document.querySelector(\'#page-content > div > div > div.gel-layout__item.gel-1\\\\/1.gel-2\\\\/3\\\\@l\');
-  if (!mainContent) return null;
-
-  function processNode(node, depth = 0) {
-let result = \'\';
-
-for (const child of node.childNodes) {
-  if (child.nodeType === Node.TEXT_NODE) {
-result += child.textContent;
-  } else if (child.nodeType === Node.ELEMENT_NODE) {
-const tag = child.tagName.toLowerCase();
-
-// Skip anchor links and header wrappers
-if (child.classList.contains(\'header-link\') || child.classList.contains(\'header-wrapper-h1\') ||
-child.classList.contains(\'header-wrapper-h2\') || child.classList.contains(\'header-wrapper-h3\') ||
-child.classList.contains(\'header-wrapper-h4\') || child.classList.contains(\'header-wrapper-h5\') ||
-child.classList.contains(\'header-wrapper-h6\')) {
-  // Process the heading inside
-  const heading = child.querySelector(\'h1, h2, h3, h4, h5, h6\');
-  if (heading) {
-const level = parseInt(heading.tagName[1]);
-const text = heading.textContent.trim();
-const id = heading.id;
-result += \'\
-\
-\' + \'#\'.repeat(level) + \' \' + text + \' {#\' + id + \'}\
-\
-\';
-  }
-  continue;
-}
-
-if (tag.match(/^h[1-6]$/)) {
-  const level = parseInt(tag[1]);
-  const text = child.textContent.trim();
-  const id = child.id;
-  result += \'\
-\
-\' + \'#\'.repeat(level) + \' \' + text + (id ? \' {#\' + id + \'}\' : \'\') + \'\
-\
-\';
-} else if (tag === \'p\') {
-  result += \'\
-\
-\' + processNode(child, depth) + \'\
-\';
-} else if (tag === \'ul\') {
-  result += \'\
-\';
-  for (const li of child.querySelectorAll(\':scope > li\')) {
-result += \'- \' + processNode(li, depth + 1).trim() + \'\
-\';
-  }
-} else if (tag === \'ol\') {
-  result += \'\
-\';
-  let num = 1;
-  for (const li of child.querySelectorAll(\':scope > li\')) {
-result += num + \'. \' + processNode(li, depth + 1).trim() + \'\
-\';
-num++;
-  }
-} else if (tag === \'li\') {
-  result += processNode(child, depth);
-} else if (tag === \'a\') {
-  const href = child.getAttribute(\'href\');
-  const text = child.textContent;
-  if (href) {
-result += \'[\' + text + \'](\' + href + \')\';
-  } else {
-result += text;
-  }
-} else if (tag === \'strong\' || tag === \'b\') {
-  result += \'**\' + child.textContent + \'**\';
-} else if (tag === \'em\' || tag === \'i\') {
-  result += \'*\' + child.textContent + \'*\';
-} else if (tag === \'code\') {
-  result += \'`\' + child.textContent + \'`\';
-} else if (tag === \'pre\') {
-  result += \'\
-\
-```\
-\' + child.textContent + \'\
-```\
-\
-\';
-} else if (tag === \'samp\' && child.classList.contains(\'example\')) {
-  result += \'<samp class="example">\' + child.innerHTML + \'</samp>\';
-} else if (tag === \'aside\') {
-  const label = child.getAttribute(\'aria-description\') || \'Note\';
-  result += \'\
-\
-<aside aria-description="\' + label + \'">\
-\
-\' + processNode(child, depth) + \'\
-\
-</aside>\
-\
-\';
-} else if (tag === \'table\') {
-  result += \'\
-\
-\' + child.outerHTML + \'\
-\
-\';
-} else if (tag === \'br\') {
-  result += \'\
-\';
-} else if (tag === \'u\' && (child.classList.contains(\'flag-online\') || child.classList.contains(\'flag-broadcast\') ||
-   child.classList.contains(\'flag-EBU-TT-D\') || child.classList.contains(\'flag-EBU-TT-10\'))) {
-  result += \'<u class="\' + child.className + \'">\' + child.textContent + \'</u>\';
-} else if (tag === \'s\') {
-  result += \'~~\' + child.textContent + \'~~\';
-} else if (tag === \'span\') {
-  result += processNode(child, depth);
-} else if (tag === \'small\') {
-  result += \'<small>\' + child.textContent + \'</small>\';
-} else if (tag === \'section\' || tag === \'header\' || tag === \'main\' || tag === \'div\') {
-  result += processNode(child, depth);
-} else {
-  // For other elements, include the HTML
-  result += child.outerHTML;
-}
-  }
-}
-
-return result;
-  }
-
-  return processNode(mainContent);
-}');
-```
