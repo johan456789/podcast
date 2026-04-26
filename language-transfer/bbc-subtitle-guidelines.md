@@ -89,65 +89,11 @@ The guidelines below apply broadly to common subtitle formats like SRT, VTT, and
 Specific actual values are indicated with double quotes, like this: `"2"`. These values must be used without the quotes. Descriptions of values are given in brackets: `[a number between 1 and 3]`. When several values
 are possible, they are separated by a pipe: `"1" | "2" | "3"`.
 
-<aside aria-description="Developer information">
-Text intended to guide developers in how to meet editorial guidelines is placed in sections like this within the Presentation section.
-</aside>
-
 Example sections are inset and styled with a side border.
 
 ```
 <!-- Subtitle format code examples -->
 ```
-
-#### 1.2 Navigation {#Navigation}
-
-Since this is a longish sort of a document, we've added in some features to help navigation:
-- When the window is wide enough, the table of contents appears on the left-hand side instead of the top.
-- The table of contents by default just shows the top level headings - headings with a chevron to the right of them, can be expanded by clicking the chevron.
-- If you want a direct link to a given section, you can click on the link icon to the right-hand side of the heading.
-- Clicking on a heading in the main part of the document will make sure the heading is visible in the table of contents.
-
-#### 1.3 Document status {#Document-status}
-
-This version covers editorial and technical contribution and presentation guidelines, including resources to assist developers in meeting these guidelines. Future versions will build on these guidelines or describe changes, or address issues
-raised. We intend to release small updates often.
-
-##### 1.3.1 Changes since September 2016 {#Changes-since-September-2016}
-
-Amongst many smaller tweaks, the following changes accumulated so far since version 1, released in September 2016, are notable:
-- Minor clarifications to presentation guidelines in response to comments received, for example:
-- the wording about use of reaction shots to gain time.
-- the word rate for live subtitles has been adjusted to 160-180wpm from 130-150wpm.
-- the use of numbers.
-- capitalisation in speech.
-- Technical details moved to the end, in the [File Format](#FILE-FORMAT) section, including specification references and BBC-specific requirements.
-- Added details about delivery.
-- Added links from the presentation sections to the technical implementation details.
-- Added links from the technical implementation details to the presentation requirements they support.
-- Added anchor links by headings for ease of reference.
-- Made table of contents expandable, set to include top level details only on load.
-- Accessibility improvements.
-- Added details on positioning.
-- Added more details about authoring and presentation font family, font size and line height, size customisation options and the use of Reith Sans font.
-- Updated the references.
-- Improved formatting of examples, code blocks and requirements.
-- Made page layout more responsive to work better with smaller and larger screens.
-- Improved accessibility and table of contents.
-- Removed the outdated requirement to adjust the font size and line height when using the Reith Sans font.
-- Updated workflow diagram in [Appendix - BBC subtitle workflows](#Appendix-BBC-subtitle-workflows) to reflect improvements made over time.
-- Added size and position guidance for 9:16 aspect ratio (vertical) video as distinct from 16:9, 4:3 or 1:1 aspect ratio video.
-- Restricted duration of [subtitle zero](#Subtitle-zero) to a maximum of 3 frames.
-- Improved size and position guidance and font size and line height guidance for each aspect ratio of video.
-
-Thank you to everyone who has helped to review this version. You know who you are!
-
-#### 1.4 How to contribute {#How-to-contribute}
-
-Queries and comments may be raised at any time on the [subtitle guidelines github project](https://github.com/bbc/subtitle-guidelines) by those with
-*sufficient project access levels*. Readers who do not have access to the project should email
-[subtitle-guidelines@bbc.co.uk](mailto:subtitle-guidelines@bbc.co.uk).
-
-When raising new issues please summarise in a short line the issue in the Title field and include enough information in the Description field, as well as the selected text, to allow the team to identify the relevant part(s) of the document.
 
 ## PRESENTATION {#PRESENTATION}
 
@@ -333,10 +279,6 @@ even 25 characters might not fit.</p>
 </tbody>
 </table>
 
-<aside aria-description="Developer information">
-
-</aside>
-
 #### 3.2 Subtitles should contain single sentences {#Subtitles-should-contain-single-sentences}
 
 Each subtitle should comprise a single complete sentence. Depending on the speed of speech, there are exceptions to this general recommendation (see [live
@@ -352,10 +294,6 @@ Extra lines may be used if you are confident that no important picture informati
 
 When deciding between one long line or two short ones,
 consider line breaks, number of words, pace of speech and the image.
-
-<aside aria-description="Developer information">
-A region sized to fit 3 lines at a recommended computed value of line height of 8% of the height of the root container region would have a minimum extent height of 24%.
-</aside>
 
 #### 3.4 Break at natural points {#Break-at-natural-points}
 
@@ -378,10 +316,6 @@ Line endings that break up a closely integrated phrase should be avoided where p
 better television service.</s></samp>
 
 Line breaks within a word are especially disruptive to the reading process and should be avoided. Ideal formatting should therefore compromise between linguistic and geometric considerations but with priority given to linguistic considerations.
-
-<aside aria-description="Developer information">
-Manual line breaks within paragraphs are specified using line break elements. Automatic line breaks occur between adjacent active paragraph elements.
-</aside>
 
 #### 3.5 Breaks in justified subtitles {#Breaks-in-justified-subtitles}
 
@@ -420,10 +354,6 @@ you would be here.</samp>
 <samp class="example">Oh. He didn’t tell
 me you would be<br>
 here.</samp>
-
-<aside aria-description="Developer information">
-Left, centre and right justification can be specified using text alignment; additional alignment options are available using multi-row alignment.
-</aside>
 
 #### 3.6 Consider the image {#Consider-the-image}
 
@@ -476,10 +406,6 @@ etc.</s></samp>
 In the examples given above, no markers are used to indicate that segmentation is taking place. It is also acceptable to use sequences of dots (three at the end of a to-be-continued subtitle, and two at the beginning of a continuation) to
 mark the fact that a segmentation is taking place, especially in legacy subtitle files.
 
-<aside aria-description="Developer information">
-Because line breaks require considering all of the above, they are better inserted manually. Implementers should avoid automatic line breaking. See the [tts:wrapOption](#tts-wrapOption) XML attribute.
-</aside>
-
 #### 3.10 Prioritise editing and timing over line breaks {#Prioritise-editing-and-timing-over-line-breaks}
 
 Good line-breaks are extremely important because they make the process of reading and understanding far easier. However, it is not always possible to produce good line-breaks as well as well-edited text and good timing. Where these constraints
@@ -489,20 +415,6 @@ are mutually exclusive, then well-edited text and timing are more important than
 
 The recommended subtitle speed is 160-180 words-per-minute (WPM) or 0.33 to 0.375 second per word. However, viewers tend to prefer verbatim subtitles, so the rate may be adjusted to match the pace of the programme. Most subtitle authoring
 tools calculate the WPM and can be configured to give a warning when the word rate exceeds a certain WPM threshhold. You can also calculate the WPM manually (see box).
-
-<aside aria-description="Developer information">
-To calculate the word-per-minute (WPM) speed of a subtitle, divide the number of words by its duration. For example, a 2-word subtitle displayed for 1 second has a word rate of 120 WPM.
-```
-<p xml:id="subtitle1" region="bottomRegion" style="paragraphStyle"
-begin="00:00:02" end="00:00:04">
- <span style="spanStyle">one, two...</span>
-</p>
-<p>
- <span style="spanStyle" begin="00:01:30" end="00:01:35">three...</span>
- <span style="spanStyle" begin="00:01:33" end="00:01:35">Four!</span>
-</p>
-```
-</aside>
 
 #### 4.1 Target minimum timing {#Target-minimum-timing}
 
@@ -608,10 +520,6 @@ However, if the speaker is very easy to lip-read, slipping out of sync even by a
 
 Note that some decoders might override the end timing of a subtitle so that it stays on screen until the next one appears. This is a non-compliant behaviour that the subtitle author and broadcaster have no control over.
 
-<aside aria-description="Developer information">
-Decoders need to match the begin and end timing specified in documents as closely as possible to maintain the careful synchronisation we expect from subtitle authors. Timing precision is especially important when video is presented at low frame rates.
-</aside>
-
 #### 5.3 Display subtitles when lips are moving {#Display-subtitles-when-lips-are-moving}
 
 A subtitle (or an explanatory label) should always be on the screen if someone's lips are moving. If a speaker speaks very slowly, then the subtitles will have to be slow, too - even if this means breaking the timing conventions. If a speaker
@@ -649,10 +557,6 @@ If you have to let a subtitle hang over a shot change, do not remove it too soon
 
 Avoid creating subtitles that straddle a shot change (i.e. a subtitle that starts in the middle of shot one and ends in the middle of shot two). To do this, you may need to split a sentence at an appropriate point, or delay the start of a
 new sentence to coincide with the shot change.
-
-<aside aria-description="Developer information">
-Authoring tools may use automated shot detection to avoid this scenario.
-</aside>
 
 #### 6.4 Merge subtitles for short shots {#Merge-subtitles-for-short-shots}
 
@@ -707,10 +611,6 @@ However, if two or more WHITE text speakers are interacting, you have to start a
 
 By convention, the narrator is indicated by a yellow colour.
 
-<aside aria-description="Developer information">
-Colour is implemented using color property and span.
-</aside>
-
 #### 7.2 Use horizontal positioning {#Use-horizontal-positioning}
 
 *This is a legacy technique that is no longer used in new
@@ -733,11 +633,6 @@ Not:
 <img src="/accessibility/forproducts/guides/subtitles/img/8.2-2.png" alt="Two lines of subtitles with no overlap.">
 
 When characters move about while speaking, the caption should be positioned at the discretion of the subtitler to identify the position of the speaker as clearly as possible.
-
-<aside aria-description="Developer information">
-Horizontal positioning is determined by text direction and alignment properties.
-- [tts:writingMode](#tts-writingMode)
-</aside>
 
 #### 7.3 Use dashes {#Use-dashes}
 
@@ -828,18 +723,6 @@ you'll be the first to know.</s></samp>
 
 If possible, make the arrow clearly visible by keeping it clear of any other lines of text, i.e. the text following the arrow and the text in any lines below it are aligned. However, not all formats support hanging indent well.
 
-<aside aria-description="Developer information">
-The `<` and `>`
-characters are not permitted directly
-
-See [Encoding characters](#Encoding-characters)
-for information about how to escape them correctly.
-</aside>
-
-<aside aria-description="Developer information">
-Non-breaking spaces can be inserted to simulate the indent behaviour reasonably closely.
-</aside>
-
 <samp class="example">&lt; When I find out
 where he is,<br>
 &nbsp;&nbsp;&nbsp;you'll be the first to know</samp>
@@ -886,12 +769,6 @@ Three or more:
 
 The subtitle file formats used by the BBC allow non-presentation metadata that can be used to include information about the speaker of a subtitle. Including this information is useful for searching, identifying speakers and other purposes.
 
-<aside aria-description="Developer information">
-Speakers can be identified using the `ttm:agent` attribute defined in the `tt/head/metadata` element and [referenced](#Element-references-and-xml-id-attributes) by a
-span element. This should be used wherever possible in documents and may be removed from documents prior to distribution,
-if the data is not needed by the presentation processor.
-</aside>
-
 ### 8 Colours {#Colours}
 
 #### 8.1 Use white on black {#Use-white-on-black}
@@ -899,12 +776,6 @@ if the data is not needed by the presentation processor.
 Most subtitles are typed in white text on a black background to ensure optimum legibility.
 
 See [Stress](#Stress) for the single case where colour may be used for emphasis.
-
-<aside aria-description="Developer information">
-Colours are implemented using color property and [tts:backgroundColor](#tts-backgroundColor) [applied](#Applying-style-attributes-to-content-elements) to a
-span.
-Where two words are in different colours the space must be placed within one of the span elements, usually as the first character of the second span.
-</aside>
 
 #### 8.2 Avoid coloured background {#Avoid-coloured-background}
 
@@ -1062,10 +933,6 @@ can adversely impact clarity of presented text.</td>
 </tbody>
 </table>
 
-<aside aria-description="Developer information">
-For implementation details, see [tts:fontFamily](#tts-fontFamily).
-</aside>
-
 #### 9.2 Size {#Size}
 
 The final displayed size of closed captions text is determined by multiple factors: the instructions in the subtitle file, the processor and the set of installed fonts available to it, the device screen size and resolution and (on some devices)
@@ -1130,31 +997,6 @@ Reduced font size, defined region:
 <img src="/accessibility/forproducts/guides/subtitles/img/resized_text_2_3.png" alt="A mock-up of a head and shoulders shot with a caption along the bottom, with a three line subtitle avoiding the face, with small sized text positioned within a rectangle that indicates the region, where the rectangle does not overlap with the face.">
 
 Better to define the region so that it does not cover the face and avoid white space.
-
-<aside aria-description="Developer information">
-The font size is determined by [tts:fontSize](#tts-fontSize)
-in combination with [ttp:cellResolution](#ttp-cellResolution).
-The line height is determined by line height
-and is relative to the font size of the element on which the line height is set.
-The 8% value originates in Teletext,
-where it is approximately the height of a double height line,
-with the Teletext rendering area covering around 90% of the video area height,
-as is typical when they are rendered within a safe area which accommodates overscan.
-We currently broadcast teletext subtitles on our digital satellite platforms:
-in principle, by connecting a television to a set top box using for example a SCART connector
-it would still be possible to display subtitles in this way,
-though in practice few if any new products are available that support such a mechanism.
-The double height line was used instead of a single height line for readability
-when commonly used television sizes were much smaller than today's median sizes
-(see [BBC R&D White Paper 287 (PDF)](http://downloads.bbc.co.uk/rd/pubs/whp/whp-pdf-files/WHP287.pdf)
-for relevant research on this).
-The 4.5% value results from adjusting the 8% value as applied to a 16:9 aspect ratio
-video for a 9:16 vertical video, i.e. by multiplying it by 9/16,
-so that subtitle text is approximately the same size on a landscape video as on a portrait/vertical video;
-since text size is proportional to the video height,
-8% of a vertical video is much larger than 8% of a landscape video,
-when each is rotated to fill the same 16:9 ratio display.
-</aside>
 
 ##### 9.2.2 Presentation font size {#Presentation-font-size}
 
@@ -1251,11 +1093,6 @@ size adjustment needed for vertical (9:16) video.
 
 In the absence of other information, a default size of 0.5° subtended at the eye may be used to derive the default line height and calculate the multiplier, however this may be too small for some devices.
 
-<aside aria-description="Developer information">
-When scaling down the font size, the processor should respect all other styling attributes. Subtitle text should be scaled by applying the multiplier to the values of
-`tts:fontSize` and
-</aside>
-
 ##### 9.2.3 Additional adjustments for Reith Sans font {#Additional-adjustments-for-Reith-Sans-font}
 
 This section previously contained guidance for adjusting
@@ -1270,35 +1107,11 @@ so the contents of this section have been removed.
 
 The width of the background is calculated per line, rather than being the largest rectangle that can fit all the displayed lines in.
 
-<aside aria-description="Developer information">
-To achieve this, wrap the text in a span and
-[apply](#Applying-style-attributes-to-content-elements) a [tts:backgroundColor](#tts:backgroundColor) style to the
-span by [referencing](#Element-references-and-xml-id-attributes)
-a style element that sets that style attribute.
-</aside>
-
 The height of the background should be the height of the line; there should be no gap between background areas of successive lines.
-
-<aside aria-description="Developer information">
-[Reference](#Element-references-and-xml-id-attributes) a style element that sets
-[itts:fillLineGap="true"](#itts:fillLineGap) from the
-paragraph parent, or its
-container ancestor,
-to instruct the processor to
-fill gaps between adjacent line background areas.
-</aside>
 
 On both sides of every line, the background colour should extend by the width of 0.5 em.
 
 <img src="/accessibility/forproducts/guides/subtitles/img/10.2-1.png" alt="Image showing background colour calculated per line with no gaps between background areas of consecutive lines.">
-
-<aside aria-description="Developer information">
-
-Note, however, that the size of line padding is expressed in cell units, requiring additional calculation.
-For this purpose, `1em` can be assumed to equal font size.
-If scaling the presentation font size, a processor should reduce the value of
-by the same factor.
-</aside>
 
 #### 9.3 Supported characters {#Supported-characters}
 
@@ -1331,59 +1144,6 @@ must not be used, because they can be hard to see against
 a black background. For the musical note, use ♫ (U+266B) instead.
 
 ##### 9.3.3 Encoding characters {#Encoding-characters}
-
-<aside aria-description="Developer information">
-
-Special characters may need to be escaped depending on the format:
-<table>
-<colgroup>
-<col style="width: 15%;">
-<col style="width: 15%;">
-<col>
-</colgroup>
-<thead>
-<tr>
-<th scope="col">Character</th>
-<th scope="col">Escaped</th>
-<th scope="col">Example</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>&lt;</td>
-<td><code>&amp;lt;</code></td>
-<td><code>&lt;span style="spanStyle"&gt;3 &amp;lt; 5&lt;/span&gt;</code></td>
-</tr>
-<tr>
-<td>&gt;</td>
-<td><code>&amp;gt;</code></td>
-<td><code>&lt;span style="spanStyle"&gt;5 &amp;gt; 3&lt;/span&gt;</code></td>
-</tr>
-<tr>
-<td>&amp;</td>
-<td><code>&amp;amp;</code></td>
-<td><code>&lt;span style="spanStyle"&gt;Trotter &amp;amp; Sons&lt;/span&gt;</code></td>
-</tr>
-</tbody>
-</table>
-Quote marks within subtitle content don't have to be escaped. This is valid:
-`<span style="spanStyle">"Hello"</span>`
-Note, however, that curly quotes are not included in the list of allowed characters (some word processors transform straight quotes to curly ones automatically).
-You may not be able directly to key in some of the other
-allowed characters. In this case you can use the decimal or
-hexadecimal Unicode code. For example, use
-`&#9835;`
-(which is the decimal code for the character ♫) like this:
-`<span style="spanStyle">&#9835; Happy birthday to you</span>`
-This will be displayed as:
-<samp class="example">♫ Happy birthday to you</samp>
-Hexadecimal Unicode character codes can alternatively be
-used with the syntax
-`&#x266B;`
-(decimal `9835` is equal to
-hexadecimal `266B`).
-You can view [a list of Unicode codes on the Unicode website](https://www.unicode.org/charts/).
-</aside>
 
 ### 10 Positioning {#Positioning}
 
@@ -1453,13 +1213,6 @@ for example when placing the captions above a graphic would cover a face.
 In such cases,
 [horizontal positioning](#Horizontal-positioning) may be used.
 
-<aside aria-description="Developer information">
-Vertical positioning is controlled mainly by the
-region element, which is defined using
-extent and origin.
-However, other attributes can also affect positioning within the region. See display alignment for more details.
-</aside>
-
 #### 10.2 Under image positioning {#Under-image-positioning}
 
 Some platforms (e.g. online media player) support the display of subtitles under the image. If the media player is embedded in the page the layout should change to accommodate the subtitle display.
@@ -1494,12 +1247,6 @@ if appropriate.
 <p>This is better, prioritise the graphic over the speaker's identification, or longer and fewer lines.</p>
 </figcaption>
 </figure>
-
-<aside aria-description="Developer information">
-Horizontal positioning is controlled by the
-region element, whose size and position are defined using extent and origin. Within the region, horizontal alignment of lines is achieved using
-text alignment and multi-row alignment.
-</aside>
 
 ### 11 Intonation and emotion {#Intonation-and-emotion}
 
@@ -1540,10 +1287,6 @@ However, avoid large chunks of text in caps as they can be hard to read.
 used in most instances, with caps reserved for heavier emphasis (e.g. shouting).
 
 Note that there is currently little research to indicate the effectiveness of italics for emphasis in subtitles.
-
-<aside aria-description="Developer information">
-Italics can be specified by using `tts:fontStyle="italic"` on a style [referenced](#Element-references-and-xml-id-attributes) by a span.
-</aside>
 
 #### 11.3 Whisper {#Whisper}
 
@@ -1752,10 +1495,6 @@ Never edit characters' catchphrases.
 
 ### 16 Music and songs {#Music-and-songs}
 
-<aside aria-description="Developer information">
- documents should set music role on the relevant paragraph or span element to indicate that the contents represent music.
-</aside>
-
 #### 16.1 Label source music {#Label-source-music}
 
 All music that is part of the action, or significant to the plot, must be indicated in some way. If it is part of the action, e.g. somebody playing an instrument/a record playing/music on a jukebox or radio, then write the label in upper case:
@@ -1849,12 +1588,6 @@ Where shots are not timed to song-lines, you should either take the subtitle to 
 
 All song-lines should be centred on the screen.
 
-<aside aria-description="Developer information">
-This can be achieved by [referencing](#Element-references-and-xml-id-attributes) a region that is positioned centrally (horizontally), and a style with
-center alignment and multi-row alignment
-either unspecified or set to `"auto"`.
-</aside>
-
 #### 16.9 Punctuation {#Punctuation}
 
 It is generally simpler to keep punctuation in songs to a minimum, with punctuation only within lines (when it is grammatically necessary) and not at the end of lines (except for question marks). You should, though, avoid full stops in the
@@ -1888,10 +1621,6 @@ never heard in the Bible... #</samp>
 
 ### 17 Sound effects {#Sound-effects}
 
-<aside aria-description="Developer information">
- Sound effects should be labelled as such using an appropriate appropriate role metadata, for example by adding the attribute sound role to the paragraph element.
-</aside>
-
 #### 17.1 Subtitle effects only when necessary {#Subtitle-effects-only-when-necessary}
 
 As well as dialogue, all editorially significant sound effects must be subtitled. This does not mean that every single creak and gurgle must be covered - only those which are crucial for the viewer's understanding of the events on screen,
@@ -1914,10 +1643,6 @@ not:
 
 A sound effect should be typed in white caps. It should sit on a separate line and be placed to the left of the screen - unless the sound source is obviously to the right, in which case place to the right.
 
-<aside aria-description="Developer information">
-There is no style attribute that enforces all caps; the text needs to be capitalised within the subtitle document.
-</aside>
-
 #### 17.4 Subject + verb {#Subject---verb}
 
 Sound-effect labels should be as brief as possible and should have the following structure: subject + active, finite verb:
@@ -1939,10 +1664,6 @@ Or
 Or
 
 <samp class="example"><s>ORDERS ARE SHOUTED BY JOHN</s></samp>
-
-<aside aria-description="Developer information">
-There is no obvious value for `ttm:role` for such labels. The closest fit is probably `"description"`.
-</aside>
 
 #### 17.5 In-vision translations {#In-vision-translations}
 
@@ -2044,14 +1765,6 @@ See the [list of supported characters](#Supported-characters) for currency symbo
 
 <u class="flag-online">online</u> Use the correct Unicode symbol for the currency, e.g. the Euro symbol €.
 
-<aside aria-description="Developer information">
-All subtitle documents should be encoded in UTF-8,
-however the actual set of code points usable in an
- document intended for broadcast presentation is currently restricted to the .
- No such restriction exists for documents intended for online-only presentation, however care should be taken that there is a reasonable expectation that the presentation device will have a font
-installed that contains glyphs for all the code points used.
-</aside>
-
 #### 18.4 Time {#Time}
 
 Indicate the time of the day using numerals in a manner which reflects the spoken language:
@@ -2096,14 +1809,6 @@ responses](#Pause-within-a-sentence) (However, if a response is not expected, a 
 Make sure there is sufficient time to read each segment of a cumulative, especially the final one. Consider leaving the final part on screen for a slightly longer time to allow the viewer to scan the line again.
 
 If you use cumulatives in children’s content, observe children’s timings.
-
-<aside aria-description="Developer information">
-Further detail on how to specify cumulatives is described in
-paragraph and span. Where possible, each individual word that forms part of a cumulative subtitle should be included in the subtitle document exactly once, with appropriate timing specified
-by putting groups of words that appear with the same timing within a span with `begin` and `end` attributes. This allows the plain text of the subtitle transcript to be extracted more easily since there is no need to de-duplicate words.
-There is an alternative approach in which multiple paragraph elements are each timed to follow on from each other, with the first words being a repeat of the words in the previous paragraph and additional words appended. This approach creates the same
-visual effect but should be avoided.
-</aside>
 
 #### 19.4 Avoid cumulative where shots change {#Avoid-cumulative-where-shots-change}
 
@@ -2203,105 +1908,3 @@ Avoid splitting sentences across subtitles. Unless this is unavoidable, keep to 
 Vocabulary should not be simplified.
 
 There should be no extra spaces inserted before punctuation.
-
-### 21 Live subtitling (BBC-ASP, OFCOM-IQLS, OFCOM-GSS) {#Live-subtitling--BBC-ASP--OFCOM-IQLS--OFCOM-GSS}
-
-#### 21.1 General {#General}
-
-The subtitler should have a direct pre-broadcast-encoding feed from the broadcaster, so they can hear the output a few seconds earlier than if relying on the broadcast­ service.
-
-Maintain a regular subtitle output with no long gaps (unless it is obvious from the picture that there is no commentary) even if this means subtitling the picture or providing background information rather than subtitling the commentary.
-
-Aim for continuity in subtitles by following through a train of thought where possible, rather than sampling the commentary at intervals.
-
-Do not subtitle over existing video captions where avoidable (in news, this is often unavoidable, in which case a speaker's name can be included in the subtitle if available).
-
-#### 21.2 Preparation {#Preparation}
-
-Find out specialist vocabulary, and specific editorial guidelines for the genre (e.g. sport). Familiarise yourself with Prepared segments that have been subtitled and their place in the running order, but be prepared for the order to change.
-
-When available to the subtitler, pre-recorded segments should be subtitled prior to broadcast (not live) and cued out at the appropriate moment.
-
-When cueing prepared texts for scripted parts of the programme:
-- Try to cue the texts of pre-recorded segments so that they closely match the spoken words in terms of start time.
-- Do not cue texts out rapidly to catch up if you get left behind - skip some and continue from the correct place.
-- Try to include speakers' names if available where in-vision captions have been obliterated.
-
-#### 21.3 Editing {#Editing-2}
-
-Subtitles should use upper and lower case as appropriate.
-
-Standard spelling and punctuation should be used at all times, even on the fastest programmes.
-
-Produce complete sentences even for short comments because this makes the result look less staccato and hurried.
-
-Strong or inappropriate language must not appear on screen in error.
-
-For news programmes, current affairs programmes and most other genres, subtitles should be verbatim, up to a subtitling speed of around 160-180wpm. Above that speed, some editing would be expected.
-
-For some genres, such as in-play sporting action, the subtitling may be edited more heavily so as to convey vital commentary information while allowing better access to the visuals. (BBC-SPG)
-
-#### 21.4 Corrections {#Corrections}
-
-Any serious or misleading errors in real-time subtitling should be corrected clearly and promptly. The correction should be preceded by two dashes:
-
-<samp class="example">The minster’s shrew
-is unchanged -- view.</samp>
-
-However be aware that too many on-air corrections, or corrections that are not sufficiently prompt, can actually make the subtitles harder for a viewer to follow.
-
-Ultimately the subtitler may have to decide whether to make a correction or omit some speech in order to catch up. Sometimes this can be done without detracting from the integrity of the subtitling, but this is not always the case. Do not
-correct minor errors where the reader can reasonably be expected to deduce the intended meaning (e.g. typos and misspellings).
-
-If necessary, an apology should be made at the end of the programme. If possible, repeat the subtitle with the error corrected.
-
-#### 21.5 Formatting {#Formatting}
-
-Live subtitles should appear word by word, from left to right, to allow maximum reading time. Live subtitles are justified left (not centred).
-
-<aside aria-description="Developer information">
-Live subtitles should be placed in an appropriately sized
-region with a preset origin x coordinate (for left to right text; for right to left text ensure the right edge is preset).
-A style with text alignment set to `"start"` (always works) or `"left"` for left to right text only or `"right"` for right to left text only should be used.
-multi-row alignment should be avoided (i.e. left unset, or set to `"auto"`) since it can result in lines being moved horizontally whenever a new word appears.
-</aside>
-
-Two-lines of scrolling text should be used.
-
-For live subtitling, use a reduced set of formatting techniques. Focus on colour and vertical positioning.
-- A change of speaker should always be indicated by a change of colour.
-- Scrolling subtitles, while usually appearing at the bottom of the screen, should be raised as appropriate in order to avoid any vital action, visual information, name labels, etc.
-
-<aside aria-description="Developer information">
-Subtitle vertical position can be set by [referencing](#Element-references-and-xml-id-attributes) a region with appropriate origin, extent and display alignment attributes.
-An alternative strategy is to insert line break elements as necessary; for example if `tts:displayAlign="after"` then every line break element appended after a subtitle will raise that subtitle by the height of the line. Although
-using line breaks for positioning is discouraged for prepared subtitles (see [Authoring font size](#Authoring-font-size)), this technique saves time when live subtitling. Note that if the region height is exceeded by entering too many
-line breaks, lines can 'fall off' the top, and be clipped.
-If a subtitle needs to be moved while it is visible and inserting line break elements is not possible then the paragraph should be ended and a new paragraph begun that references a differently positioned region. That new paragraph
-can contain the same words and style references.
-</aside>
-
-## APPENDICES {#APPENDICES}
-
-### 33 Appendix 6: BBC subtitle workflows {#Appendix-BBC-subtitle-workflows}
-
-<figure>
-<figcaption>
-This diagram is a high-level view of current subtitle workflows:</figcaption>
-[Workflow diagram - see BBC documentation for current subtitle workflows]
-</figure>
-
-### 34 Appendix 7: References {#Appendix-References}
-- ‘BBC Access Services Presentation & Style Guidelines’ (internal document). 2012
-- [‘bbc.co.uk Online Subtitling Editorial
-Guidelines V1.1’. 2009. (archived via the Wayback Machine)](https://web.archive.org/web/20120403102830/https://www.bbc.co.uk/guidelines/futuremedia/accessibility/subtitling_guides/online_sub_editorial_guidelines_vs1_1.pdf)
-- [BBC
-R&D White Paper 287 (PDF): A Survey of UK Television Viewing
-Conditions. 2015](https://downloads.bbc.co.uk/rd/pubs/whp/whp-pdf-files/WHP287.pdf)
-- [‘Specification of the EBU Subtitling data
-exchange format', TECH. 3264-E. 1991](https://tech.ebu.ch/publications/tech3264)
-- [‘ITC Guidance on Standards for
-Subtitling’. 1999. (Word document download)](https://webarchive.nationalarchives.gov.uk/20100508023348/http://www.ofcom.org.uk/tv/ifi/guidance/tv_access_serv/archive/subtitling_stnds/itc_stnds_subtitling_word.doc)
-- ['The quality of live subtitling -
-Improving the viewer experience'. 2013, Ofcom.](https://www.ofcom.org.uk/__data/assets/pdf_file/0017/45602/subtitling.pdf)
-
