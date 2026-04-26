@@ -1,5 +1,37 @@
 # Subtitle Guidelines {#Subtitle-Guidelines}
 
+<style>
+.example {
+  font-family: monospace;
+  background-color: #f5f5f5;
+  padding: 2px 6px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+.flag-online {
+  background-color: #e6f3ff;
+  color: #0066cc;
+  padding: 1px 4px;
+  border-radius: 2px;
+  font-size: 0.9em;
+  text-decoration: none;
+}
+.flag-broadcast {
+  background-color: #fff3e6;
+  color: #cc6600;
+  padding: 1px 4px;
+  border-radius: 2px;
+  font-size: 0.9em;
+  text-decoration: none;
+}
+.diagram-annotation {
+  font-style: italic;
+  color: #666;
+}
+.diagram-icon.icon-good::before { content: "✓ "; color: green; }
+.diagram-icon.icon-bad::before { content: "✗ "; color: red; }
+</style>
+
 Version 1.2.5 | March 2026
 
 ## OVERVIEW {#OVERVIEW}
@@ -914,7 +946,7 @@ A limited range of colours can be used to distinguish speakers from each other. 
 <p>White</p>
 </td>
 <td>
-<p><code class=" language-css">#FFFFFF</code></p>
+<p><code>#FFFFFF</code></p>
 </td>
 <td></td>
 </tr>
@@ -923,7 +955,7 @@ A limited range of colours can be used to distinguish speakers from each other. 
 <p>Yellow</p>
 </td>
 <td>
-<p><code class=" language-css">#FFFF00</code></p>
+<p><code>#FFFF00</code></p>
 </td>
 <td></td>
 </tr>
@@ -932,7 +964,7 @@ A limited range of colours can be used to distinguish speakers from each other. 
 <p>Cyan</p>
 </td>
 <td>
-<p><code class=" language-css">#00FFFF</code></p>
+<p><code>#00FFFF</code></p>
 </td>
 <td></td>
 </tr>
@@ -941,7 +973,7 @@ A limited range of colours can be used to distinguish speakers from each other. 
 <p>Green</p>
 </td>
 <td>
-<p><code class=" language-css">#00FF00</code></p>
+<p><code>#00FF00</code></p>
 </td>
 <td>
 
@@ -1319,18 +1351,18 @@ Special characters may need to be escaped depending on the format:
 <tbody>
 <tr>
 <td>&lt;</td>
-<td><code class=" language-xml"><span class="token entity named-entity" title="&lt;">&amp;lt;</span></code></td>
-<td><code class=" language-xml"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span> <span class="token attr-name">style</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>spanStyle<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>3 <span class="token entity named-entity" title="&lt;">&amp;lt;</span> 5<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">&gt;</span></span></code></td>
+<td><code>&amp;lt;</code></td>
+<td><code>&lt;span style="spanStyle"&gt;3 &amp;lt; 5&lt;/span&gt;</code></td>
 </tr>
 <tr>
 <td>&gt;</td>
-<td><code class=" language-xml"><span class="token entity named-entity" title="&gt;">&amp;gt;</span></code></td>
-<td><code class=" language-xml"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span> <span class="token attr-name">style</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>spanStyle<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>5 <span class="token entity named-entity" title="&gt;">&amp;gt;</span> 3<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">&gt;</span></span></code></td>
+<td><code>&amp;gt;</code></td>
+<td><code>&lt;span style="spanStyle"&gt;5 &amp;gt; 3&lt;/span&gt;</code></td>
 </tr>
 <tr>
 <td>&amp;</td>
-<td><code class=" language-xml"><span class="token entity named-entity" title="&amp;">&amp;amp;</span></code></td>
-<td><code class=" language-xml"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span> <span class="token attr-name">style</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>spanStyle<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>Trotter <span class="token entity named-entity" title="&amp;">&amp;amp;</span> Sons<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">&gt;</span></span></code></td>
+<td><code>&amp;amp;</code></td>
+<td><code>&lt;span style="spanStyle"&gt;Trotter &amp;amp; Sons&lt;/span&gt;</code></td>
 </tr>
 </tbody>
 </table>
@@ -1401,14 +1433,14 @@ to read the text and see the person speaking.
 Generally, vertical displacement should be used to avoid obscuring important information (such as captions) while horizontal displacement should be reserved for indicating speakers (see
 [Identifying Speakers](#Identifying-speakers)).
 
-<figure class="gel-layout__item gel-layout--equal gel-layout--fit gel-1/1 gel-1/2@l">
+<figure>
 <img src="/accessibility/forproducts/guides/subtitles/img/quiz-text-position-1.png" alt="Image showing subtitles placed vertically so that they obscure important onscreen text, which in this case are contestant's names on a quiz show.">
 <figcaption class="diagram-annotation">
 <i class="diagram-icon icon-bad"></i>
 <p>This is bad, placing subtitles here would cover the names.</p>
 </figcaption>
 </figure>
-<figure class="gel-layout__item gel-layout--equal gel-layout--fit gel-1/1 gel-1/2@l">
+<figure>
 <img src="/accessibility/forproducts/guides/subtitles/img/quiz-text-position-2.png" alt="Image showing the same quiz image, with subtitles moved up to avoid the faces and the onscreen text, which can now be read.">
 <figcaption class="diagram-annotation">
 <i class="diagram-icon icon-good"></i>
@@ -1447,14 +1479,14 @@ In some cases [vertical
 positioning](#Vertical-positioning) is not sufficient to avoid obscuring important information, for example when placing the captions above a graphic would cover a face. In such cases, prioritise the important information over speaker identification, using horizontal positioning
 if appropriate.
 
-<figure class="gel-layout__item gel-layout--equal gel-layout--fit gel-1/1 gel-1/2@l">
+<figure>
 <img src="/accessibility/forproducts/guides/subtitles/img/11.1-1-1.png" alt="Image showing subtitle positioned vertically to avoid obscuring text in the bottom right of the image, resulting in it obscuring the mouth of the person speaking.">
 <figcaption class="diagram-annotation">
 <i class="diagram-icon icon-bad"></i>
 <p>This is bad, placing the subtitles here would obscure the speaker's mouth.</p>
 </figcaption>
 </figure>
-<figure class="gel-layout__item gel-layout--equal gel-layout--fit gel-1/1 gel-1/2@l">
+<figure>
 <img src="/accessibility/forproducts/guides/subtitles/img/11.1-1-2.png" alt="Image showing subtitle moved horizontally instead of vertically to avoid obscuring a face, as happened in the previous image.">
 
 <figcaption class="diagram-annotation">
