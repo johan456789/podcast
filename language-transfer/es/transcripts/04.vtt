@@ -45,14 +45,20 @@ WEBVTT
 00:00:30.674 --> 00:00:35.630
 <v Teacher>But uh tekiero is very common and it literally means I want you.
 
-00:00:36.174 --> 00:00:44.867
-<v Teacher>So there is you we can get rid of this and here we are left with I want Qiero Quiero good how would you say I don't want
+00:00:36.174 --> 00:00:40.000
+<v Teacher>So <b>te</b> is <i>you</i>, we can get rid of this and here we are left with <i>I want</i>.
+
+00:00:40.000 --> 00:00:40.867
+<v Student><b>Quiero.</b>
+
+00:00:40.867 --> 00:00:44.867
+<v Teacher><b>Quiero</b>. Good, how would you say <i>I don't want</i>?
 
 00:00:46.155 --> 00:00:46.856
-<v Student>Nocchiero.
+<v Student><b>No quiero.</b>
 
 00:00:46.901 --> 00:00:47.575
-<v Teacher>Nocchiero.
+<v Teacher><b>No quiero</b>.
 
 00:00:47.640 --> 00:00:49.232
 <v Teacher>Good, we just put no before.
@@ -165,14 +171,23 @@ WEBVTT
 00:02:57.540 --> 00:03:01.007
 <v Teacher>But if you take it syllable by syllable, we get every vowel perfect.
 
-00:03:01.275 --> 00:03:11.961
-<v Student>Generacion Confirmation I was tempted to say confirmacion.
+00:03:01.275 --> 00:03:02.500
+<v Teacher><b>Generación</b>.
+
+00:03:02.500 --> 00:03:03.500
+<v Teacher><i>Confirmation:</i>
+
+00:03:04.500 --> 00:03:06.000
+<v Student><b>Confirmación.</b>
+
+00:03:06.000 --> 00:03:06.500
+<v Teacher><b>Confirmación.</b>
+
+00:03:07.000 --> 00:03:11.961
+<v Student>I was tempted to say <i>confermación</i>.
 
 00:03:12.060 --> 00:03:14.286
-<v Teacher>Ah, but you thought now I like ink
-
-00:03:14.520 --> 00:03:15.160
-<v Teacher>Perfect.
+<v Teacher>Ah! But you thought "no, <i>i</i>, like <i>ink</i>."
 
 00:03:15.160 --> 00:03:18.434
 <v Teacher>So these are this is actually called language transfer.
@@ -253,7 +268,7 @@ WEBVTT
 <v Teacher>But this is with folding.
 
 00:04:44.688 --> 00:04:46.930
-<v Teacher>from Latin pligare to fold.
+<v Teacher>from Latin, <i>plicare</i>, to fold.
 
 00:04:47.414 --> 00:04:51.128
 <v Teacher>So you know when you fold stuff up I guess it gets more complicated.
@@ -349,7 +364,7 @@ WEBVTT
 <v Teacher><b>Complicación.</b>
 
 00:05:56.082 --> 00:05:56.923
-<v Teacher>Too complicate.
+<v Teacher><i>To complicate:</i>
 
 00:05:58.186 --> 00:05:58.889
 <v Teacher>Complicar.
@@ -409,67 +424,67 @@ WEBVTT
 <v Student><b>Cooperar.</b>
 
 00:06:34.011 --> 00:06:34.567
-<v Student>cooperar.
+<v Teacher><b>Cooperar</b>.
 
 00:06:35.005 --> 00:06:36.011
-<v Teacher>I want to cancel:
+<v Teacher><i>I want to cooperate:</i>
 
 00:06:37.421 --> 00:06:38.327
-<v Student><b>Quiero cancelar.</b>
+<v Student><b>Quiero cooperar.</b>
 
 00:06:38.479 --> 00:06:38.710
-<v Teacher>Good.
+<v Teacher>Good!
 
 00:06:39.434 --> 00:06:40.847
-<v Teacher>How do you think you would say ? No
+<v Teacher>How do you say <i>cancellation</i>?
 
 00:06:42.456 --> 00:06:43.541
-<v Student>Cancelar.
+<v Student><b>Cancelación.</b>
 
 00:06:43.680 --> 00:06:44.747
-<v Teacher>And to cancel.
+<v Teacher>And <i>to cancel</i>:
 
 00:06:46.054 --> 00:06:46.923
-<v Teacher>Cancelar.
+<v Student><b>Cancelar.</b>
 
 00:06:47.070 --> 00:06:48.241
-<v Teacher><i>I want to explore:</i>
+<v Teacher><i>I want to cancel:</i>
 
 00:06:49.473 --> 00:06:50.576
-<v Student><b>Quiero explorar.</b>
+<v Student><b>Quiero cancelar.</b>
 
 00:06:50.689 --> 00:06:50.960
 <v Teacher>Good.
 
 00:06:51.026 --> 00:06:53.618
-<v Teacher>How do you think you would say I don't want to cancel?
+<v Teacher>How do you think you would say <i>I don't want to cancel</i>?
 
 00:06:55.339 --> 00:06:56.724
-<v Teacher>No quiero cancelar.
+<v Student><b>No quiero cancelar.</b>
 
 00:06:56.940 --> 00:06:57.326
-<v Teacher>Perfect.
+<v Teacher>Perfect,
 
 00:06:58.139 --> 00:06:59.152
-<v Teacher>Exploration.
+<v Teacher><i>exploration:</i>
 
 00:07:00.574 --> 00:07:01.652
-<v Student>Exploración.
+<v Student><b>Exploración.</b>
 
 00:07:01.822 --> 00:07:02.650
-<v Student>To explore.
+<v Teacher><i>To explore:</i>
 
 00:07:03.998 --> 00:07:04.826
-<v Student>Explorar.
+<v Student><b>Explorar.</b>
 
 00:07:05.021 --> 00:07:05.209
-<v Teacher>good.
+<v Teacher>Good.
 
 00:07:05.440 --> 00:07:06.526
-<v Teacher>I want to explore
+<v Teacher><i>I want to explore:</i>
 
 00:07:08.221 --> 00:07:09.443
-<v Teacher>Quiero explorar.
+<v Student><b>Quiero explorar.</b>
 
 00:07:09.480 --> 00:07:09.807
 <v Teacher>Perfect.
@@ -517,19 +532,19 @@ WEBVTT
 <v Teacher>Not always.
 
 00:07:52.914 --> 00:07:56.678
-<v Teacher>Counsel doesn't sound formal because it's the only word we use to say cancel.
+<v Teacher><i>Cancel</i> doesn't sound formal because it's the only word we use to say <i>cancel</i>.
 
 00:07:56.743 --> 00:07:59.655
-<v Teacher>But most of the time we have two words with similar meanings.
+<v Teacher>But most of the time we have two words with similar meanings,
 
 00:08:00.021 --> 00:08:07.386
 <v Teacher>like for example you might have to find and then to encounter which sounds a little bit more formal or a little bit more literary or flowery
 
 00:08:07.999 --> 00:08:12.727
-<v Teacher>And these ones that have these different uh feelings in English are generally Latin words.
+<v Teacher>And these ones that have these different feelings in English are generally Latin words.
 
 00:08:13.007 --> 00:08:19.805
-<v Teacher>And the Germanic words like feind, which in German is finden, same word, sound more everyday, colloquial.
+<v Teacher>And the Germanic words like <i>find</i>, which in German is <i>finden</i>, same word, sound more everyday, colloquial.
 
 00:08:20.445 --> 00:08:28.314
-<v Teacher>Now we should bear in mind that that's in English and Latin words in Spanish, which is modern Latin, of course don't sound formal, they just sound normal.
+<v Teacher>Now we should bear in mind that that's in English, and Latin words in Spanish, which is more Latin, of course don't sound formal, they just sound normal.

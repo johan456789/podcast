@@ -33,8 +33,11 @@ WEBVTT
 00:00:37.449 --> 00:00:39.145
 <v Teacher>Where is the stress there?
 
-00:00:40.759 --> 00:00:42.722
-<v Student>In the second last. Good.
+00:00:40.759 --> 00:00:42.220
+<v Student>In the second last.
+
+00:00:42.220 --> 00:00:42.722
+<v Teacher>Good.
 
 00:00:43.473 --> 00:00:49.453
 <v Teacher>The stress is as much part of the word as the sounds, which is why we want to get
@@ -126,44 +129,44 @@ WEBVTT
 00:01:58.172 --> 00:02:00.166
 <v Teacher>so how would you say <i>legally</i>?
 
-00:02:01.760 --> 00:02:04.308
-<v Teacher><i>Illegally:</i> <b>Ilegalmente.</b>
+00:02:01.760 --> 00:02:03.308
+<v Student><b>Legalmente.</b>
+
+00:02:03.308 --> 00:02:04.400
+<v Teacher>Perfect, <b>legalmente</b>.
 
 00:02:04.400 --> 00:02:04.871
-<v Teacher>Perfect.
+<v Teacher>Good,
 
 00:02:05.081 --> 00:02:06.248
-<v Teacher>Legalmente.
+<v Teacher><i>Illegally:</i>
 
-00:02:06.389 --> 00:02:06.759
-<v Teacher>Good.
+00:02:07.040 --> 00:02:08.309
+<v Student><b>Ilegalmente.</b>
 
-00:02:07.040 --> 00:02:07.809
-<v Teacher>Illegally?
-
-00:02:08.720 --> 00:02:09.774
-<v Student>Illegalmente.
-
-00:02:09.920 --> 00:02:10.980
-<v Teacher>Illegalmente.
+00:02:08.720 --> 00:02:10.980
+<v Teacher><b>Ilegalmente</b>.
 
 00:02:12.154 --> 00:02:14.859
-<v Teacher>How do you think you would say <i>really</i>? <b>Realmente.</b>
+<v Teacher>How do you think you say <i>real</i> in Spanish? <i>Real:</i>
 
-00:02:16.053 --> 00:02:17.791
-<v Teacher><b>Realmente</b>. <b>Real</b> also
+00:02:16.053 --> 00:02:17.000
+<v Student><b>Real.</b>
+
+00:02:17.000 --> 00:02:17.791
+<v Teacher><b>Real</b>. Good,
 
 00:02:18.065 --> 00:02:22.749
-<v Teacher>When we have an R at the beginning you might hear it like a rolling R real.
+<v Teacher>when we have an <i>r</i> at the beginning you might hear it like a rolling <i>r</i>. <b>Real</b>.
 
 00:02:23.389 --> 00:02:24.939
-<v Teacher>How do you think you would say really?
+<v Teacher>How do you think you would say <i>really</i>?
 
 00:02:26.282 --> 00:02:27.168
-<v Student>Realmente.
+<v Student><b>Realmente.</b>
 
 00:02:27.339 --> 00:02:28.427
-<v Teacher>Realmente.
+<v Teacher><b>Realmente</b>.
 
 00:02:28.720 --> 00:02:35.348
 <v Teacher>Real also means royal, like Real Madrid is not, you know, Real Madrid, it's Royal Madrid.
@@ -175,10 +178,10 @@ WEBVTT
 <v Student>Normalmente.
 
 00:02:40.686 --> 00:02:40.970
-<v Teacher>good,
+<v Teacher>Good,
 
 00:02:41.153 --> 00:02:42.385
-<v Teacher>Normalmente
+<v Teacher><b>normalmente</b>.
 
 00:02:43.170 --> 00:02:47.408
 <v Teacher>So what would it mean if I said to you
@@ -259,10 +262,10 @@ WEBVTT
 <v Teacher>So we're causing a bit of friction in the float general.
 
 00:04:00.160 --> 00:04:00.960
-<v Teacher>Generally
+<v Teacher><i>Generally:</i>
 
 00:04:01.739 --> 00:04:02.622
-<v Student>Naturalmente.
+<v Student><b>Generalmente.</b>
 
 00:04:02.693 --> 00:04:03.766
 <v Teacher>Generalmente.
@@ -280,16 +283,16 @@ WEBVTT
 <v Teacher>Original.
 
 00:04:09.061 --> 00:04:09.704
-<v Teacher>Originally.
+<v Teacher><i>Originally:</i>
 
 00:04:11.086 --> 00:04:12.301
-<v Teacher><b>naturalmente</b>,
+<v Student><b>Originalmente.</b>
 
 00:04:12.380 --> 00:04:12.600
-<v Teacher>Good.
+<v Teacher>Good,
 
 00:04:12.703 --> 00:04:13.715
-<v Teacher>Originalmente.
+<v Teacher><b>originalmente</b>.
 
 00:04:14.380 --> 00:04:15.128
 <v Teacher>Digital?
@@ -322,7 +325,7 @@ WEBVTT
 <v Teacher>Good.
 
 00:04:30.102 --> 00:04:34.770
-<v Teacher>So naturalente you can also use it a little bit like obviously, something like that.
+<v Teacher>So <b>naturalmente</b>, you can also use it a little bit like <i>obviously</i>, something like that.
 
 00:04:35.453 --> 00:04:41.915
 <v Teacher>Words ending IBLE or ABLE, we can also convert many of them.
@@ -334,58 +337,52 @@ WEBVTT
 <v Teacher>Second from the end.
 
 00:04:47.860 --> 00:04:50.402
-<v Teacher>So possible becomes possible.
+<v Teacher>So <i>possible</i> becomes <b>posible</b>.
 
 00:04:51.570 --> 00:04:52.254
-<v Teacher>Posiblemente
+<v Student><b>Posible.</b>
 
 00:04:52.580 --> 00:04:53.205
-<v Teacher>Probable?
+<v Teacher><i>Probable:</i>
 
 00:04:54.571 --> 00:04:55.380
-<v Student>Probable?
+<v Student><b>Probable</b>?
 
 00:04:55.380 --> 00:04:55.860
-<v Student>Yeah.
+<v Teacher>Yeah, <b>probable</b>.
 
-00:04:55.860 --> 00:04:56.580
-<v Teacher>Probably.
-
-00:04:56.580 --> 00:04:57.985
-<v Teacher>How do you say probable?
+00:04:55.860 --> 00:04:57.985
+<v Teacher>How would you say <i>probably</i>?
 
 00:04:59.308 --> 00:05:00.760
-<v Student>Probablemente.
+<v Student><b>Probablemente.</b>
 
 00:05:00.760 --> 00:05:01.119
-<v Teacher>Yeah.
+<v Teacher>Yeah,
 
 00:05:01.320 --> 00:05:02.429
-<v Teacher>Probablemente.
+<v Teacher><b>probablemente</b>.
 
 00:05:02.680 --> 00:05:03.365
-<v Teacher>Possibly.
+<v Teacher><i>Possibly:</i>
 
 00:05:04.680 --> 00:05:06.626
-<v Student>Possiblemente.
+<v Student><b>Posiblemente.</b>
 
 00:05:06.760 --> 00:05:07.008
-<v Student>Good.
+<v Teacher>Good.
 
-00:05:07.160 --> 00:05:07.800
-<v Teacher>Possibly.
-
-00:05:07.800 --> 00:05:08.580
-<v Teacher>It's original.
+00:05:07.160 --> 00:05:08.580
+<v Teacher><i>Possibly it's original:</i>
 
 00:05:09.843 --> 00:05:12.534
-<v Student>Possiblemente es original.
+<v Student><b>Posiblemente es original.</b>
 
 00:05:12.780 --> 00:05:13.094
 <v Teacher>Good.
 
 00:05:13.260 --> 00:05:15.286
-<v Teacher>Possiblemente es original.
+<v Teacher><b>Posiblemente es original.</b>
 
 00:05:16.358 --> 00:05:17.009
 <v Teacher>Flexible?
