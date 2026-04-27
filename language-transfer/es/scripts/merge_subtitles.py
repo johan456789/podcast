@@ -65,9 +65,9 @@ def parse_vtt(vtt_path: Path) -> list[VTTCue]:
             full_text = " ".join(text_lines)
             
             speaker = None
-            speaker_match = re.match(r"<v\s+(\w+)>(.+)", full_text)
+            speaker_match = re.match(r"<v\s+([^>]+)>(.+)", full_text)
             if speaker_match:
-                speaker = speaker_match.group(1)
+                speaker = speaker_match.group(1).strip()
                 full_text = speaker_match.group(2).strip()
             
             cues.append(VTTCue(
@@ -193,9 +193,11 @@ def parse_markdown_to_tokens(md_path: Path) -> tuple[str, list[Token]]:
             continue
         
         # Check for speaker label at start of line
-        speaker_match = re.match(r"^(Teacher|Student):\s*", stripped)
+        # Support both full names (Teacher/Student) and abbreviations (T/S)
+        speaker_match = re.match(r"^(Teacher|Student|T|S):\s*", stripped)
         if speaker_match:
-            current_speaker = speaker_match.group(1)
+            label = speaker_match.group(1)
+            current_speaker = "Teacher" if label in ("Teacher", "T") else "Student"
             stripped = stripped[speaker_match.end():]
         elif line.startswith("  ") and stripped:
             # Continuation line (indented) - keep current speaker
