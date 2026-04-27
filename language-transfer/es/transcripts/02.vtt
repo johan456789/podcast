@@ -81,20 +81,20 @@ WEBVTT
 00:01:27.619 --> 00:01:28.201
 <v Student><b>NorMAL</b>.
 
-00:01:28.980 --> 00:01:29.685
-<v Student>Normal.
-
 00:01:30.146 --> 00:01:35.480
-<v Teacher>Um so if we assume the same happens with other words, how do you think you would say uh metal
+<v Teacher>So if we assume the same happens with other words, how do you think you would say <i>metal</i>?
+
+00:01:35.480 --> 00:01:36.000
+<v Teacher><i>Metal:</i>
 
 00:01:36.906 --> 00:01:37.420
-<v Teacher><b>Metal</b>.
+<v Student><b>Metal.</b>
 
 00:01:37.680 --> 00:01:38.301
-<v Teacher>Metal.
+<v Teacher><b>Metal</b>.
 
 00:01:38.816 --> 00:01:43.840
-<v Teacher>to pronounce all of the vowels exactly as they are written
+<v Teacher>To get a perfect accent in Spanish we just need to pronounce all of the vowels exactly as they are written
 
 00:01:43.840 --> 00:01:45.600
 <v Teacher>so <i>a, e, i, o, u</i>
@@ -103,7 +103,7 @@ WEBVTT
 <v Teacher>in Spanish is /ah/, /eh/, /ee/, /oh/, /oo/, where in English the vowel, it can have many different sounds.
 
 00:01:52.300 --> 00:01:56.444
-<v Teacher>if you look at the <i>a</i> sound in <i>apple</i> or in <i>mare</i>,
+<v Teacher>Like if you look at the <i>a</i> sound in <i>apple</i> or in <i>mare</i>,
 
 00:01:57.032 --> 00:01:58.320
 <v Teacher>it's a very different sound.
@@ -181,45 +181,33 @@ WEBVTT
 <v Student><b>Legal</b>.
 
 00:03:07.420 --> 00:03:08.300
-<v Teacher><b>legal</b>.
+<v Teacher>Yeah, <b>legal</b>.
 
 00:03:08.416 --> 00:03:09.202
-<v Teacher>Yeah, legal.
-
-00:03:09.534 --> 00:03:10.755
-<v Teacher>So how would you say it is legal?
+<v Teacher>So how would you say <i>it is legal</i>?
 
 00:03:12.519 --> 00:03:13.760
-<v Teacher><b>Es legal</b>.
+<v Student><b>Es legal.</b>
 
 00:03:13.760 --> 00:03:14.414
-<v Teacher>Es legal.
+<v Teacher><b>Es legal</b>.
 
 00:03:15.381 --> 00:03:16.049
-<v Teacher><b>Ilegal</b>,
+<v Teacher><i>Illegal?</i>
 
 00:03:16.874 --> 00:03:17.577
-<v Teacher>Illegal.
+<v Student><b>Ilegal.</b>
 
 00:03:17.600 --> 00:03:18.400
-<v Teacher>Illegal.
+<v Teacher><b>Ilegal</b>,
 
 00:03:18.400 --> 00:03:18.713
-<v Teacher>Good.
+<v Teacher>good.
 
 00:03:19.036 --> 00:03:23.751
-<v Teacher>So here in English, like we have an I and an E producing the same sound.
+<v Teacher>So here in English we have an <i>i</i> and an <i>e</i> producing the same sound, <i>"illegal"</i>.
 
-00:03:24.200 --> 00:03:25.960
-<v Teacher>Ili ilegal.
-
-00:03:26.127 --> 00:03:28.040
-<v Teacher>The <i>i</i> and the <i>e</i> are producing the same sound,
-
-00:03:28.040 --> 00:03:30.440
-<v Teacher>so this is really confusing if you want to learn English.
-
-00:03:30.440 --> 00:03:32.440
+00:03:28.040 --> 00:03:32.440
 <v Teacher>But in Spanish you're not going to have this problem.
 
 00:03:32.440 --> 00:03:36.023
@@ -244,7 +232,7 @@ WEBVTT
 <v Teacher>What if you wanted to say <i>he is liberal</i>?
 
 00:03:46.959 --> 00:03:49.519
-<v Teacher>We don't need the word for he if you know who you're talking about.
+<v Teacher>You don't need the word for <i>he</i> if you know who you're talking about,
 
 00:03:49.519 --> 00:03:50.789
 <v Teacher>you can just use <b>es</b>.
@@ -313,7 +301,7 @@ WEBVTT
 <v Teacher><b>Es natural.</b>
 
 00:04:45.086 --> 00:04:49.576
-<v Teacher>If you want to say <i>it isn't</i> or , the word for <i>not</i>
+<v Teacher>If you want to say <i>it isn't</i> or <i>it's not</i>, the word for <i>not</i>
 
 00:04:50.554 --> 00:04:53.421
 <v Teacher>or <i>don't</i> is the same as the word for <i>no</i>.
@@ -337,10 +325,10 @@ WEBVTT
 <v Teacher>And you put this before <i>is</i> if you want to say <i>it is not</i>, <i>he is not</i>, <i>she is not</i>, <i>you</i> (formal) <i>are not</i>.
 
 00:05:11.222 --> 00:05:12.714
-<v Teacher>So how would that sound,
+<v Teacher>So how would that sound, <i>it is not</i>?
 
 00:05:12.762 --> 00:05:14.608
-<v Teacher><i>it is not</i>? <b>No es.</b>
+<v Student><b>No es.</b>
 
 00:05:14.800 --> 00:05:15.520
 <v Teacher><b>No es</b>,
@@ -376,136 +364,145 @@ WEBVTT
 <v Teacher>Good. <b>Ideal</b>.
 
 00:05:38.729 --> 00:05:40.015
-<v Teacher>How would you say ? <b>Es ideal.</b>
+<v Teacher>How would you say <i>it's ideal</i>?
 
 00:05:41.551 --> 00:05:42.560
-<v Teacher><b>Es ideal</b>.
+<v Student><b>Es ideal.</b>
 
 00:05:42.560 --> 00:05:43.332
-<v Student>es ideal.
+<v Teacher><b>Es ideal</b>.
 
 00:05:43.663 --> 00:05:44.504
-<v Teacher>It's not ideal.
+<v Teacher><i>It's not ideal:</i>
 
 00:05:45.478 --> 00:05:46.735
-<v Student>No es ideal.
+<v Student><b>No es ideal.</b>
 
 00:05:46.830 --> 00:05:46.998
 <v Teacher>Good.
 
 00:05:47.184 --> 00:05:48.048
-<v Teacher>No es ideal.
+<v Teacher><b>No es ideal</b>.
 
 00:05:48.240 --> 00:05:48.622
 <v Teacher>Perfect.
 
 00:05:49.626 --> 00:05:50.724
-<v Teacher>How would you say fatal?
+<v Teacher>How would you say <i>fatal</i>?
 
 00:05:51.863 --> 00:05:52.480
-<v Teacher>Fatal.
+<v Student><b>Fatal.</b>
 
 00:05:52.480 --> 00:05:53.291
-<v Teacher>Fatal, good.
+<v Teacher><b>Fatal</b>, good.
 
 00:05:53.760 --> 00:05:54.385
-<v Teacher>Natal?
+<v Teacher><i>Natal:</i>
 
 00:05:55.497 --> 00:05:56.080
-<v Student>Natal.
+<v Student><b>Natal.</b>
 
 00:05:56.080 --> 00:05:56.578
-<v Student>Natal.
+<v Teacher><b>Natal</b>,
 
 00:05:56.880 --> 00:05:57.216
 <v Teacher>Good.
 
 00:05:57.737 --> 00:05:58.447
-<v Teacher>Colonial?
+<v Teacher><i>Colonial:</i>
 
 00:05:59.878 --> 00:06:01.089
-<v Student>Colonial.
+<v Student><b>Colonial.</b>
 
 00:06:01.280 --> 00:06:01.881
-<v Teacher>Colonial.
+<v Teacher><b>Colonial</b>.
 
 00:06:02.735 --> 00:06:03.402
-<v Teacher><b>Cultural</b>,
+<v Teacher><i>Cultural:</i>
 
 00:06:04.697 --> 00:06:05.968
-<v Student>Cultural.
+<v Student>Culturial?
 
 00:06:06.792 --> 00:06:08.002
 <v Teacher>So think about how it's written.
 
 00:06:09.652 --> 00:06:10.337
-<v Student>Cultural.
-
-00:06:10.480 --> 00:06:10.793
-<v Teacher><i>y</i>
+<v Student><b>Cultural</b>?
 
 00:06:11.157 --> 00:06:12.485
-<v Teacher>And perfect Spanish accent, huh?
+<v Teacher>Yes and perfect Spanish accent there.
 
 00:06:12.720 --> 00:06:13.395
-<v Teacher>Cultural.
+<v Teacher><b>Cultural</b>,
 
 00:06:13.520 --> 00:06:13.966
-<v Teacher>Very nice.
+<v Teacher>very nice.
 
 00:06:14.698 --> 00:06:15.270
-<v Teacher>Annual.
+<v Teacher><i>Annual:</i>
 
 00:06:16.875 --> 00:06:17.540
-<v Teacher>Anual.
+<v Student><b>Anual.</b>
 
 00:06:17.780 --> 00:06:18.425
-<v Teacher>Anual.
+<v Teacher><b>Anual</b>.
 
 00:06:18.741 --> 00:06:22.713
-<v Teacher>And you cut this Y sound that comes in English.
-
-00:06:22.813 --> 00:06:24.283
-<v Teacher>Anuel.
+<v Teacher>And you cut this <i>y</i> sound that comes in English <i>ann-y-ual</i>.
 
 00:06:24.569 --> 00:06:29.206
-<v Teacher>Anuel. This <i>y</i> sound comes from nowhere in English and you cut it out ’cause you focused on how it’s written.
+<v Teacher>This <i>y</i> sound comes from nowhere in English and you cut it out ’cause you focused on how it’s written.
 
 00:06:29.450 --> 00:06:29.988
-<v Teacher>Anual.
+<v Teacher><b>Anual</b>.
 
 00:06:30.495 --> 00:06:31.116
 <v Teacher>Very nice.
 
 00:06:31.740 --> 00:06:32.456
+<v Teacher><i>Dental:</i>
+
+00:06:33.000 --> 00:06:33.500
 <v Student><b>Dental.</b>
 
 00:06:33.972 --> 00:06:34.574
-<v Teacher><b>dental</b>.
+<v Teacher><b>Dental</b>.
 
 00:06:35.066 --> 00:06:37.384
-<v Teacher>Tooth in Spanish is diente.
+<v Teacher><i>Tooth</i> in Spanish is <b>diente</b>.
 
 00:06:38.111 --> 00:06:39.671
 <v Teacher>So this is coming from dental.
 
 00:06:40.160 --> 00:06:49.600
-<v Teacher>So if you look up Tuf in the dictionary and you find diente, rather than treating it as like a random piece of vocabulary that you have to memorize, you can relate it back to dentel.
+<v Teacher>So if you look up <i>tooth</i> in the dictionary and you find <b>diente</b>, rather than treating it as a random piece of vocabulary that you have to memorize, you can relate it back to <i>dental</i>.
 
 00:06:49.600 --> 00:06:51.360
-<v Teacher>Ah, okay, like dental, it comes from
+<v Teacher>Oh okay, like <i>dental</i> it comes from there.
 
 00:06:51.360 --> 00:06:53.844
-<v Teacher>from there and this is useful for for memory.
+<v Teacher>And this is useful for memory.
 
-00:06:54.516 --> 00:07:03.139
-<v Student><b>Personal.</b> <b>Personal.</b> Good, <i>total:</i>
+00:06:54.516 --> 00:06:55.500
+<v Teacher>A couple more: <i>festival:</i>
+
+00:06:55.500 --> 00:06:56.200
+<v Student><b>Festival.</b>
+
+00:06:56.500 --> 00:06:57.200
+<v Teacher><i>Personal:</i>
+
+00:06:57.500 --> 00:06:58.200
+<v Student><b>Personal.</b>
+
+00:06:58.200 --> 00:07:03.139
+<v Teacher><b>Personal</b>. Good, <i>total:</i>
 
 00:07:04.552 --> 00:07:05.159
 <v Student><b>Total.</b>
 
 00:07:05.159 --> 00:07:05.800
-<v Teacher>Total.
+<v Teacher><b>Total</b>.
 
 00:07:05.800 --> 00:07:06.440
 <v Teacher>Good,
