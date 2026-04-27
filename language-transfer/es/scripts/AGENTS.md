@@ -1,55 +1,58 @@
-# Merge Subtitles Post-Processing
+# VTT Transcript Processing
 
-After running `merge_subtitles.py` on a VTT file, always perform a manual diff review before committing.
+## Standard Process for New Tracks
 
-## Required Review Steps
+Follow this 3-step workflow for processing new VTT tracks:
 
-1. **Load the full diff into context**:
-   ```bash
-   git diff <file>.vtt
-   ```
+### Step 1: Fix the Markdown Source
 
-2. **Check for these common issues**:
+1. Read the current markdown file (`transcripts/extracted/markdown/track-XX.md`)
+2. Compare with the correct transcript text (provided by user from PDF reader - no formatting but correct content order)
+3. Update content to fix parsing/OCR errors while **preserving existing markdown formatting**:
+   - Keep `**bold**` for Spanish words
+   - Keep `*italic*` for English translations/prompts
+   - Keep `T:` and `S:` speaker labels
+4. Do NOT remove formatting just because the reference text lacks it - the markdown has good formatting, just bad content from OCR
 
-   ### Issues from corrupted markdown source
-   - **Garbled/merged text**: OCR artifacts like `"***I****want*` or merged lines
-   - **Wrong content**: Text from wrong part of transcript aligned to a cue
-   - **Truncated sentences**: Partial content like `something.` instead of full sentence
-   - **Extra characters**: Trailing letters like `Intento publicarlo.I`
+### Step 2: Run the Merge Script
 
-   ### Issues from merge algorithm
-   - **Lost formatting**: Bold (`<b>`) or italic (`<i>`) tags removed when they should be preserved
-   - **Speaker misattribution**: Wrong speaker assigned to a cue (check T→Teacher, S→Student mapping)
-   - **Content drift**: Alignment getting progressively more wrong as file progresses
+```bash
+cd language-transfer/es
+python scripts/merge_subtitles.py transcripts/extracted/markdown/track-XX.md transcripts/XX.vtt --output transcripts/XX.vtt
+```
 
-3. **Remediation**:
+This creates a "rough merge" aligning markdown content with VTT timestamps. The merge is imperfect and needs manual fixes.
 
-   ### If markdown source is corrupted
-   - **Do NOT merge** - the VTT machine transcription is likely more accurate
-   - Fix the markdown source first, then re-run merge
-   - Or manually edit VTT to add formatting from markdown while preserving VTT text
+### Step 3: In-Context VTT Fixes
 
-   ### If merge algorithm issues
-   - For lost formatting: Restore formatting from markdown
-   - For speaker issues: Correct speaker tags based on markdown labels
-   - For alignment drift: Restore VTT and re-run with `--verbose` to debug
+Load the full VTT file into context and systematically fix issues using `StrReplace`:
 
-4. **Verify markdown quality first**:
-   Before running merge, scan the markdown for:
-   - Lines with garbled formatting markers (`***`, `****`, mismatched `*`)
-   - Merged speaker lines (content from T and S on same line)
-   - Orphaned text fragments without speaker labels
-   - Obvious OCR errors in Spanish words
+1. **Speaker assignments**: Change `Speaker 1`, `Speaker 2` → `Teacher`, `Student` as appropriate
+2. **Formatting**: Add missing `<b>`, `<i>` tags:
+   - Spanish words in Student responses: `<b>bold</b>`
+   - English prompts from Teacher: `<i>italic</i>`
+3. **Content errors**: Fix transcription mistakes by comparing against the reference transcript
+4. **Split combined cues**: Where one cue contains both Teacher and Student content, split into separate cues
+5. **Merge fragmented cues**: Where a single sentence is split across multiple cues incorrectly, combine them
+6. After finishing, run `grep -n "Speaker" XX.vtt` to verify no "Speaker" labels remain
 
-## Red Flags in Diff Output
+## Common Issues & Fixes
 
-**Markdown source issues (DO NOT COMMIT):**
-- Content completely different from original VTT (wrong alignment)
-- Truncated sentences replacing full sentences
-- Garbled formatting markers in output
-- Same content appearing in multiple cues
+### Merge script output issues
+- **Wrong speaker**: Script may assign Teacher to Student lines or vice versa
+- **Combined cues**: Multiple speakers merged into one cue (split them manually)
+- **Missing formatting**: `<b>`, `<i>` tags not applied (add them)
+- **Content misalignment**: Text from wrong part of transcript (realign manually)
 
-**Fixable merge issues:**
-- Lines only gaining/losing `<b>`, `<i>` tags (formatting changes)
-- Speaker label corrections (Speaker 1 → Teacher)
-- Minor text corrections (e.g., "Nocchiero" → "No quiero")
+### StrReplace failures
+- Ensure `old_string` exactly matches file content (including formatting, newlines)
+- Read the actual file content first to construct correct `old_string`
+- For complex changes, split into smaller `StrReplace` operations
+
+## Important Rules
+
+- Do NOT stage files unless explicitly requested
+- Do NOT remove existing formatting when fixing content
+- Spanish words in Student responses should be `<b>bold</b>`
+- English prompts from Teacher should be `<i>italic</i>`
+- Speaker labels: `<v Teacher>` and `<v Student>`
