@@ -56,7 +56,7 @@ T: This works with nouns and adjectives. So, it is a very good example of why, w
   grammatical terminology, we want to know what type of word we are dealing with, because
   different words behave in different ways. Nouns, words you can put *the* or *a* in front of: **la semana, **
   **una semana**- *the week, a week; *and adjectives, words that describe, that you can put *is* in front of:
-  *is**red*, *is**tall: *these words use -*s* for plural. But we have never seen the verb do that, have we?
+  *is red*, *is tall*: these words use -*s* for plural. But we have never seen the verb do that, have we?
   What does the verb use for *we*?
 
 S: -**amos**.
@@ -81,9 +81,7 @@ T: **Hemos**. Good. So, from **haber** you get **he** and **hemos**, no? And we 
   like we said we can think just this thought, just the thought "What vowels do we have in **haber**?
   /*a*/ and /*e*/. Ok: **he**. **He** by itself is *I*, it is connected to *we:***he** and **hemos**."
 
-  Now we go to the other vowel /*a*/. *H-a* all by itself (*h-a*) **ha** means *she has, it has, he has, you *
-
-  (formal) *have*. Now I am sure you can tell me the rest of them. What are the other versions? What
+  Now we go to the other vowel /*a*/. *H-a* all by itself (*h-a*) **ha** means *she has, it has, he has, you* (formal) *have*. Now I am sure you can tell me the rest of them. What are the other versions? What
   is *they have*?
 
 S: **Han**.

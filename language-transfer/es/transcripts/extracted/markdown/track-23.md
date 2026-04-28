@@ -16,7 +16,7 @@ T: Good. We said that nouns ending *a* are feminine nouns. So, for example, *the
 
 S: **El problema.**
 
-T: Good. How would you say *Have you understood the problem?**Have you understood the problem?*
+T: Good. How would you say *Have you understood the problem? Have you understood the problem?*
   What was *to understand?*
 
 S: **Comprender**.
@@ -56,8 +56,7 @@ T: Good. ¿**Has entendido el sistema**? Good. **Sentir**, in Spanish, **sentir*
 
 S: ¿**Has sentido el aroma**?
 
-T: Good. ¿**Has sentido el aroma**? Good. So **el** again. So we have **el**: **el problema**, **el sistema**, **el **
-  **programa**, **el aroma**, **el panorama**. **El clima**, which is a little bit different in English, which
+T: Good. ¿**Has sentido el aroma**? Good. So **el** again. So we have **el**: **el problema**, **el sistema**, **el programa**, **el aroma**, **el panorama**. **El clima**, which is a little bit different in English, which
   means *climate*, **el clima**. And some others. *Have you understood the program?:*
 
 S: ¿**Has entendido el programa**?

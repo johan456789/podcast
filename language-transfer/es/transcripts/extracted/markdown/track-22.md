@@ -255,7 +255,7 @@ T: **Nosotros vemos**. Good. We said that *you *(informal) was **tú**. **Tú**.
 
 S: **Usted**.
 
-T: **Usted**. Which is the formal *you*, it is actually a contraction of **vuestra****merced**, which means *your *
+T: **Usted**. Which is the formal *you*, it is actually a contraction of **vuestra merced**, which means *your *
   *honour*. Something like this contracted to **usted**. So this is the formal *you*. So how would you say
   *you see *talking formally?
 
@@ -300,5 +300,5 @@ S: **Ellos me ven**.
 T: Good. **Ellos me ven**. So we are understanding that we have two separate groups of very
 
   important words. The set of: **yo, él, ella, ellos, ellas, nosotros, tú**, and **usted**. **Yo veo. Tú ves. **
-  **Usted/él/ella ve**. **Ellos** or **ellas****ven**. And **nosotros vemos**. Then we have the other set of words -
+  **Usted/él/ella ve**. **Ellos** or **ellas ven**. And **nosotros vemos**. Then we have the other set of words -
   **me, lo, la, los, las, nos, te**.
