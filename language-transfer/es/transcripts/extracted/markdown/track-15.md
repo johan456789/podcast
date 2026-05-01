@@ -21,27 +21,19 @@ T: And *it passes*:
 
 S: **Pasa.**
 
-T: Good. And if you want to say *what passes*, meaning *what happens*,* what's going on, what is *
-  *happening?*:
+T: Good. And if you want to say *what passes*, meaning *what happens*, *what's going on*, *what is happening?*:
 
 S: I remembered it now. I went through the whole process and I remember people saying ¿**qué pasó?**
 
-T: This is the past. We said that when you emphasize that *-o* on the end it's actually the version for
-  *he/she/it* in the past, so ¿**qué pasó?** is *what happened?,* and we will look at this later. But what is
-  *what's happening*? W*hat is happening?*:
+T: This is the past. We said that when you emphasize that *-o* on the end it's actually the version for *he/she/it* in the past, so ¿**qué pasó?** is *what happened?*, and we will look at this later. But what is *what's happening*? *What is happening?*:
 
 S: ¿**Qué pasa?**
 
-T: Good. So if you want to say *I want to know what's going on, I want to know what's happening, I *
-  *want to know what's passing*:
+T: Good. So if you want to say *I want to know what's going on*, *I want to know what's happening*, *I want to know what's passing*:
 
 S: **Quiero saber qué pasa.**
 
-T: **Quiero saber qué pasa. ***I want to know what's happening.* Good. There's one more thing we need
-  to know about the present, and it's gonna fill in, happily, a grey area for us which you might be
-
-  wondering already: how did we get **tiene***he/she/it/you *(formal) *has* or *have*, and then the other
-  versions **tienen**, **tienes**, from **tener**? *To want* is **querer**. What is *I want*?
+T: **Quiero saber qué pasa.** *I want to know what's happening.* Good. There's one more thing we need to know about the present, and it's gonna fill in, happily, a grey area for us which you might be wondering already: how did we get **tiene** *he/she/it/you* (formal) *has* or *have*, and then the other versions **tienen**, **tienes**, from **tener**? *To want* is **querer**. What is *I want*?
 
 S: **Quiero.**
 
@@ -72,16 +64,7 @@ T: Not *beat* but *tempo*. Now, *time* in Spanish is **tiempo**. You see the dif
 
 S: **Concierto.**
 
-T: **Concierto. **Good. You stuck in an *o* to make it sound more Spanish and you split that *e*. **Concierto**.
-  *November* is **Noviembre**. So this will help us remember. So this happens most of the time. We
-  already saw places that it doesn't happen; we saw very briefly the verb **llegar**, which was *to arrive *
-
-  and we said **llego**, *I arrive*. We saw **esperar**, which was *to wait *or *to hope*, **espero**. It's not
-  happening. But most of the time it's going to happen. We saw it happening with **tener** which
-  became **tiene**, *he/she/it/you *(formal), **tienen**, *they *or *you *(plural), **tienes,***you* (informal).
-
-  We saw it happening with **venir**, *to come*: **viene**, **vienes**, **vienen**. Another verb that we see this
-  way is **pensar**. what do you think **pensar** means?
+T: **Concierto.** Good. You stuck in an *o* to make it sound more Spanish and you split that *e*. **Concierto**. *November* is **Noviembre**. So this will help us remember. So this happens most of the time. We already saw places that it doesn't happen; we saw very briefly the verb **llegar**, which was *to arrive* and we said **llego**, *I arrive*. We saw **esperar**, which was *to wait* or *to hope*, **espero**. It's not happening. But most of the time it's going to happen. We saw it happening with **tener** which became **tiene**, *he/she/it/you* (formal), **tienen**, *they* or *you* (plural), **tienes**, *you* (informal). We saw it happening with **venir**, *to come*: **viene**, **vienes**, **vienen**. Another verb that we see this way is **pensar**. What do you think **pensar** means?
 
 S: *Thoughtful*.
 
@@ -128,13 +111,11 @@ T: Good. *What do you think?*:
 
 S:** ¿Qué piensas?**
 
-T: Yeah. ¿**Qué piensas? **This is a useful verb as well actually. Because if you say *I think to eat* it
-  means *I plan on eating*. You can say *I think to eat*, that simple. *I think to eat*: how would it sound?
+T: Yeah. ¿**Qué piensas?** This is a useful verb as well actually. Because if you say *I think to eat* it means *I plan on eating*. You can say *I think to eat*, that simple. *I think to eat*: how would it sound?
 
 S: **Pienso comer.**
 
-T: **Pienso comer. ***I think to eat**later* is *I plan on eating later*. So how would you say *I plan on eating *
-  *later*?
+T: **Pienso comer.** *I think to eat later* is *I plan on eating later*. So how would you say *I plan on eating later*?
 
 S: **Pienso comer tarde.**
 

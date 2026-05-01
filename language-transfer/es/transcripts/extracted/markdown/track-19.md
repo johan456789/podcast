@@ -139,11 +139,9 @@ T: *And*:
 
 S: **Y.**
 
-  *I don’t drink alcohol*
-T: :
+T: *I don't drink alcohol*:
 
-S: **No tomo ***alcohol - ***alcohol.**
-
+S: **No tomo** *alcohol -* **alcohol.**
 T: **Alcohol.** Good. Because we don't pronounce *h* in Spanish, do we? **No como carne y no tomo **
   **alcohol. **Or If you wanted to say *I eat meat, and I take alcohol*; *I eat meat, and I drink alcohol,*
   how would that be?

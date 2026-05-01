@@ -34,9 +34,7 @@ S: **Preferimos.**
 T: **Preferimos. **So there the -*er* doesn't split, and also the *i* of -*ir* is appearing in the endings for the
   first time in the present tense. **Preferimos**. Good.
 
-  , when things “with-come".
-  What was *to come*? It had something to do with *convenient*
-
+  What was *to come*? It had something to do with *convenient*, when things "with-come".
 S: **Venir.**
 
 T: **Venir. **And how would you say: *we come* or *we're coming*?

@@ -106,10 +106,8 @@ T: Good. **Los cuelga.** Words in English that begin *al-*, so not end -*al* lik
   **metal**, they begin *al*-, they come from Arabic. This *al-* means *the* in Arabic. And in Arabic it's
   written with the word. It's written as one word. It's all stuck together. So when words came in from
   Arabic they kind of came in most of the time with this *al-*, which meant *the*. So for example,
-  , we are actually saying something like “the the alcohol”,
-  *alcohol*, and when we say *the alcohol*
-  something like this. The verb to take is **tomar**. **Tomar.***T-o-m-a-r*.
-
+  *alcohol*, and when we say *the alcohol*, we are actually saying something like "the the alcohol",
+  something like this. The verb *to take* is **tomar**. **Tomar.** *T-o-m-a-r*.
 S: **Tomar.**
 
 T: **Tomar. **And this is also used like *to drink*. So it's used like *take* generically, generally, but also *to *
@@ -155,9 +153,10 @@ S: **Quiero arroz.**
 T: **Quiero arroz. **Good. *Algebra*. How would that be in Spanish?
 
 S: **Alguebra**?
-  T: /*Al-juh-*
-  *bra*/ S:
-  **Algebra.**
+
+T: /*Al-heh-bra*/
+
+S: **Algebra.**
 
 T: **Algebra. **Good. Spanish has a lot more Arabic than English. The south of Spain was part of the
   Muslim world for 800 years, so the languages had a lot of contact. And you get more words in
@@ -244,16 +243,13 @@ T: **Encontrar. ***I find*:
 
 S: **Encuentro.**
 
-  *I’m finding. He finds*
-T: **Encuentro. ***I find *or :
+T: **Encuentro.** *I find* or *I'm finding*. *He finds*:
 
 S: **Encuentra.**
 
-  Good. You went back to the “to" form, right?
-T: **Encuentra. **
+T: **Encuentra.** Good. You went back to the "to" form, right?
 
 S: Yep.
-
 T: *They*:
 
 S: **Encuentran.**
@@ -348,10 +344,8 @@ T: Good. **Qué piensas hacer. **Now how would you say: *we think*?
 
 S: **Pensamos.**
 
-  So you’re not splitting there.
-T: Good. **Pensamos. ****Pensamos. **The verb *to close, to close, *is **cerrar**.
-  *c-e-r-r-a-r*. **Cerrar**.
-
+T: Good. **Pensamos.** So you're not splitting there. **Pensamos.** The verb *to close*, *to close*, is **cerrar**.
+  *c-e-r-r-a-r*. **Cerrar.**
 S: **Cerrar.**
 
 T: Good. Or in most of Spain, /*therrar*/. How would you say: *I close*?

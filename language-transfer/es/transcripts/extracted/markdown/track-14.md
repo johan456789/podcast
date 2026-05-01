@@ -4,15 +4,11 @@ T: What was *to know*?
 
 S: **Saber.**
 
-T: **Saber. **Good. What would *I know* be, if it follows our rules?
+T: **Saber.** Good. What would *I know* be, if it follows our rules?
 
 S: **Sabo.**
 
-T: But it’s not. It’s
-  **sé**. So it’s an exception. *S-e*, **sé**. You might have heard **lo sé, lo sé **- literally *I know *
-  *it*. Because **sé** by itself is a bit short, so you often hear people saying **lo sé, lo sé** - *I know it*, rather
-  than **sé, sé, sé**. So this is irregular, very irregular. *S-e*. But the rest of the versions of **saber** are
-  regular. So how would you say *he knows *or *she knows *or *it knows *or *you* (formal) *know*?
+T: But it's not. It's **sé**. So it's an exception. *S-e*, **sé**. You might have heard **lo sé, lo sé** - literally *I know it*. Because **sé** by itself is a bit short, so you often hear people saying **lo sé, lo sé** - *I know it*, rather than **sé, sé, sé**. So this is irregular, very irregular. *S-e*. But the rest of the versions of **saber** are regular. So how would you say *he knows* or *she knows* or *it knows* or *you* (formal) *know*?
 
 S: **Sabe.**
 
@@ -20,8 +16,7 @@ T: Good. So *I don't know*:
 
 S: **No sé.**
 
-T: **No sé. **We said that **quiero** was *I want*, and **quiero** actually is an -*er* verb so how would you say *I *
-  *don't know what he wants*? What is *what*?
+T: **No sé.** We said that **quiero** was *I want*, and **quiero** actually is an *-er* verb so how would you say *I don't know what he wants*? What is *what*?
 
 S: **Qué. No sé qué lo quiere.**
 
@@ -29,63 +24,43 @@ T: Why **lo**?
 
 S: *He*.
 
-T: Firstly, you're not using the word for *he*, you're just saying *he wants *and that's contained in the
-  verb. But **lo** is not *he*, it's *him*. Not ***he***. We didn't learn yet the word for *he*. On purpose actually we
-  haven't been learning these words so that we can just use the verb for now.
+T: Firstly, you're not using the word for *he*, you're just saying *he wants* and that's contained in the verb. But **lo** is not *he*, it's *him*. Not *he*. We didn't learn yet the word for *he*. On purpose actually we haven't been learning these words so that we can just use the verb for now.
 
 S: Ok.
 
 T: So try again: *I don't know what he wants.*
 
-S: **No sé qué quiere***.*
+S: **No sé qué quiere.**
 
-T: Good, you must feel comfortable with two words becoming one. *I don't know what he wants*, **no **
-  **sé qué quiere**. Good. The word for *he* is **él**,** él**. *E-l*. If you want to be emphatic: *I don't know what *
-  *HE wants, *or if you want to show or clarify who you're talking about, you can add that. So how
-  would you do that? *I don't know what he wants*:
+T: Good, you must feel comfortable with two words becoming one. *I don't know what he wants*, **no sé qué quiere**. Good. The word for *he* is **él**, **él**. *E-l*. If you want to be emphatic: *I don't know what HE wants*, or if you want to show or clarify who you're talking about, you can add that. So how would you do that? *I don't know what he wants*:
 
 S: **No sé qué él quiere.**
 
-T: Good. **No sé qué él quiere. **Or you can say **no sé qué quiere él**. You can do either; one sounds
-  more emphatic than the other, and this is much better understood in live practice. Because the
-  emphasis isn't just in the sentence, it's with the hands and facial expression and tone of voice. So
-  it's something much better to get live. **No sé qué él quiere, no sé qué quiere él.**
+T: Good. **No sé qué él quiere.** Or you can say **no sé qué quiere él**. You can do either; one sounds more emphatic than the other, and this is much better understood in live practice. Because the emphasis isn't just in the sentence, it's with the hands and facial expression and tone of voice. So it's something much better to get live. **No sé qué él quiere, no sé qué quiere él.**
 
-  The word for *she*, what is the word for *her* first? We want to differentiate. What is the word for
-  *her*, like in *I want to see her*? How would you say *I want to see, to view, her*?
+The word for *she*, what is the word for *her* first? We want to differentiate. What is the word for *her*, like in *I want to see her*? How would you say *I want to see, to view, her*?
 
 S: **Quiero verla.**
 
-T: Good. **Quiero verla. **But if you want to say *she sees,* it's not *her*, *I want to see her*, it's *she*. And
-  the word for *she* is **ella**.** Ella**.
+T: Good. **Quiero verla.** But if you want to say *she sees*, it's not *her*, *I want to see her*, it's *she*. And the word for *she* is **ella**. **Ella**.
 
 S: **Ella.**
 
-T: Now this is spelled *e-l-l-a*. Double *l* in Spanish is pronounced /yuh/. **Ella**. So if you want to say
-  *she sees, to see *is a verb, what type of verb is it? -*ar* verb, -*ir* verb, -*er* verb?
+T: Now this is spelled *e-l-l-a*. Double *l* in Spanish is pronounced /yuh/. **Ella**. So if you want to say *she sees*, *to see* is a verb, what type of verb is it? *-ar* verb, *-ir* verb, *-er* verb?
 
-S: **Ver.** It's an -*er*.
+S: **Ver.** It's an *-er*.
 
-T: An -*er* verb. It seems too obvious to us.
+T: An *-er* verb. It seems too obvious to us.
 
 S: Sorry I thought you might be asking something more complicated.
 
-T: No. This is an -*er* verb. So how do I say *she sees*?
+T: No. This is an *-er* verb. So how do I say *she sees*?
 
 S: **Ella ve.**
 
-T: **Ella ve. **And if I know who I'm talking about I can just say **ve**. Maybe when we are contrasting in
-  the sentence we have a special desire to use these words. When I say contrasting, I mean in the
-  sense maybe I say *I want to invite him, but she doesn't want to invite him*. So even if we know who
-  I'm talking about, there I will probably use the word for *she* because I'm making that contrast.
+T: **Ella ve.** And if I know who I'm talking about I can just say **ve**. Maybe when we are contrasting in the sentence we have a special desire to use these words. When I say contrasting, I mean in the sense maybe I say *I want to invite him, but she doesn't want to invite him*. So even if we know who I'm talking about, there I will probably use the word for *she* because I'm making that contrast.
 
-  Again these are things you just do very naturally without realizing it once you get practicing. Also
-  because your native language probably does the same thing as well. Even if you don't have the
-  choice whether or not to put *she* - like in English you always put it - you will stress it with your
-  voice. *I don't want to invite him, but SHE does*. So because you are stressing that with your voice
-  in English, that's also going to carry over. Many things are going to carry over that are positive
-  language transfer that we might not necessarily address specifically. So how would you say that?
-  *I don't want to invite him, but she does want to invite him. *So, *I don't want:*
+Again these are things you just do very naturally without realizing it once you get practicing. Also because your native language probably does the same thing as well. Even if you don't have the choice whether or not to put *she* - like in English you always put it - you will stress it with your voice. *I don't want to invite him, but SHE does*. So because you are stressing that with your voice in English, that's also going to carry over. Many things are going to carry over that are positive language transfer that we might not necessarily address specifically. So how would you say that? *I don't want to invite him, but she does want to invite him.* So, *I don't want*:
 
 S: **No quiero.**
 
@@ -93,24 +68,21 @@ T: *To invite him*:
 
 S: **Invitarlo.**
 
-T: Good. **No quiero invitarlo. ***But*:
+T: Good. **No quiero invitarlo.** *But*:
 
 S: **Pero.**
 
-T: **Pero.***She does*. So actually we can just say *but she yes*. What was the word for *yes*?
+T: **Pero.** *She does*. So actually we can just say *but she yes*. What was the word for *yes*?
 
 S: **Sí.**
 
-T: **Sí. **So we can just say *but she yes*. How would you do that?
+T: **Sí.** So we can just say *but she yes*. How would you do that?
 
 S: **Pero ella sí.**
 
-T: Good. **No quiero invitarlo, pero ella sí.** Or maybe I even use the word for *I* there to be emphatic.
-  **Yo no quiero invitarlo.****Yo**: y-o. **Yo no quiero invitarlo, pero ella sí.**
+T: Good. **No quiero invitarlo, pero ella sí.** Or maybe I even use the word for *I* there to be emphatic. **Yo no quiero invitarlo.** **Yo**: *y-o*. **Yo no quiero invitarlo, pero ella sí.**
 
-  So we said that **salir** was *to leave *or *to go out*. Now, *I leave *or *I go out *is **salgo**. It's irregular, has
-  the /*g*/ sound popping up. **Salgo**. But the rest of the versions are regular, so let's make them. How
-  do you say *he goes out *or *he leaves*?
+So we said that **salir** was *to leave* or *to go out*. Now, *I leave* or *I go out* is **salgo**. It's irregular, has the /g/ sound popping up. **Salgo**. But the rest of the versions are regular, so let's make them. How do you say *he goes out* or *he leaves*?
 
 S: **Sele**?
 
@@ -126,10 +98,7 @@ T: **Salir.**
 
 S: **Sale.**
 
-T: **Sale. **Good. So that **sele** you put before is because it just sounds better. The mind has some kind
-  of desire for this vowel harmony. It's very interesting. **Sale.** Now you can make me the rest.
-
-  *They*, or *you* (plural), *you**guys*:
+T: **Sale.** Good. So that **sele** you put before is because it just sounds better. The mind has some kind of desire for this vowel harmony. It's very interesting. **Sale.** Now you can make me the rest. *They*, or *you* (plural), *you guys*:
 
 S: **Salen.**
 
@@ -137,8 +106,7 @@ T: And *you* (informal):
 
 S: **Sales.**
 
-T: **Sales. **Good. Now if you want to say *I'm going out to eat*, how is *I'm going out *again? So it should
-  be **salo** but it was:
+T: **Sales.** Good. Now if you want to say *I'm going out to eat*, how is *I'm going out* again? So it should be **salo** but it was:
 
 S: **Sango**?
 
@@ -146,12 +114,11 @@ T: **Salgo.**
 
 S: **Salgo.**
 
-T: **Salgo.** So the irregularity is the same as the other ones that we saw: **tener**, **tengo**: *to have, I have*;
-  **venir,****vengo**: *to come, I come*; **salir**, **salgo**. So how do you say *I'm going out to eat*?
+T: **Salgo.** So the irregularity is the same as the other ones that we saw: **tener**, **tengo**: *to have, I have*; **venir**, **vengo**: *to come, I come*; **salir**, **salgo**. So how do you say *I'm going out to eat*?
 
 S: I'm not sure of the word *out*.
 
-T: This is the verb. The verb is* to leave *or *to go out*.
+T: This is the verb. The verb is *to leave* or *to go out*.
 
 S: Oh, **salgo**. Right.
 
@@ -159,48 +126,35 @@ T: So you don't need the word for *out*.
 
 S: Ok. **Salgo comer. Salgo a comer.**
 
-T: Why did you think of the **a**? I think you felt it. You felt that sense of movement. Good. So **salgo a **
-  **comer**, it's a verb of movement. Good. **Voy a comer**, *I'm going to eat*. **Salgo a comer, ***I'm going *
-  *out to eat*. Very good. What was *I have*?
+T: Why did you think of the **a**? I think you felt it. You felt that sense of movement. Good. So **salgo a comer**, it's a verb of movement. Good. **Voy a comer**, *I'm going to eat*. **Salgo a comer**, *I'm going out to eat*. Very good. What was *I have*?
 
 S: **Tengo.**
 
-T: **Tengo. ***I have it*:
+T: **Tengo.** *I have it*:
 
 S: **Lo tengo.**
 
-T: **Lo tengo. **Good. *I have them*:
+T: **Lo tengo.** Good. *I have them*:
 
 S: **Los tengo.**
 
-T: **Los tengo. **Good. If we add on **que** to **tengo**, and there's not really any comfortable translation for
-  this, but if we add on **que** we get *I have to*, in the sense of *must*, *have to*. So for example if you say
-  **tengo que comer***** ***you get *I have to eat*. So we change the meaning of **tengo**: like* have*, which is
-  just possession, to *have to* by adding **que**. Like I said there is no comfortable translation. **Que** is
-  *what* or *that*, it's also used as *that.* We're going to use it like this later, but again it's still very
-  uncomfortable to translate. So we will just say we add **que** and we get the meaning of *have to*. So
-  how would you say *I have to do it*? What was *to do*? Begins with a silent *h*:
+T: **Los tengo.** Good. If we add on **que** to **tengo**, and there's not really any comfortable translation for this, but if we add on **que** we get *I have to*, in the sense of *must*, *have to*. So for example if you say **tengo que comer** you get *I have to eat*. So we change the meaning of **tengo**: like *have*, which is just possession, to *have to* by adding **que**. Like I said there is no comfortable translation. **Que** is *what* or *that*, it's also used as *that*. We're going to use it like this later, but again it's still very uncomfortable to translate. So we will just say we add **que** and we get the meaning of *have to*. So how would you say *I have to do it*? What was *to do*? Begins with a silent *h*:
 
 S: **Hacer.**
 
-T: **Hacer. **So *I have to do it*:
+T: **Hacer.** So *I have to do it*:
 
 S: **Tengo que hacer. Hacerlo.**
 
-T: Good. **Tengo que hacerlo**, **lo tengo que hacer**, you have the option. So we've seen a few verbs
-  with this -**go** business. **Vengo**, *I'm coming*; **tengo**, *I have*; **salgo**, *I leave*; and we've seen that the -**go**
-  *”*
-  just pops up for the “I version. It doesn't pop up for the other versions, this *g*. So, **tiene** for
-  example is *he has*. **Tiene**. How would you say *they have*?
+T: Good. **Tengo que hacerlo**, **lo tengo que hacer**, you have the option. So we've seen a few verbs with this **-go** business. **Vengo**, *I'm coming*; **tengo**, *I have*; **salgo**, *I leave*; and we've seen that the **-go** just pops up for the "I" version. It doesn't pop up for the other versions, this *g*. So, **tiene** for example is *he has*. **Tiene**. How would you say *they have*?
 
 S: **Tienen.**
 
-T: **Tienen. **And how would you say *you have,* speaking informally?
+T: **Tienen.** And how would you say *you have*, speaking informally?
 
 S: **Tienes.**
 
-T: **Tienes. **Good. So if I give you the version for *he comes* it's **viene**. So how would you say *you *
-  *come*?
+T: **Tienes.** Good. So if I give you the version for *he comes* it's **viene**. So how would you say *you come*?
 
 S: Informal?
 
@@ -208,11 +162,11 @@ T: Yes.
 
 S: **Vienes.**
 
-T: **Vienes. **The word for *when* is **cuándo**. **Cuándo**.
+T: **Vienes.** The word for *when* is **cuándo**. **Cuándo**.
 
-S:* ***Cuándo***.*
+S: **Cuándo.**
 
-T:* When are you coming?*:
+T: *When are you coming?*:
 
 S: Informal, **vienes.**
 
@@ -220,18 +174,15 @@ T: It's the English that's confusing you.
 
 S: **¿Cuándo vienes?**
 
-T: Exactly. So don't let that English *are you coming* confuse you. There's a lot we're doing in English
-  there that we don't need to worry about for Spanish. **¿Cuándo vienes?***When are you coming to *
-  *eat?*:
+T: Exactly. So don't let that English *are you coming* confuse you. There's a lot we're doing in English there that we don't need to worry about for Spanish. **¿Cuándo vienes?** *When are you coming to eat?*:
 
 S: **¿Cuándo vienes a comer?**
 
-T: **A comer**,very nice. **¿Cuándo vienes a comer? ***When are you coming to eat?***Tiene**, what does
-  **tiene** mean?
+T: **A comer**, very nice. **¿Cuándo vienes a comer?** *When are you coming to eat?* **Tiene**, what does **tiene** mean?
 
 S: *Have*.
 
-T: But I need you to be more specific. I'm giving you more information then just *have*. **Tiene**:
+T: But I need you to be more specific. I'm giving you more information than just *have*. **Tiene**:
 
 S: *He/it/she* or formal *you*.
 
@@ -243,34 +194,27 @@ T: Good. **Quiero saber qué tiene.**
 
 S: *I want to know what you have*.
 
-T: *What you have,* or *she*, or *it*. Very good. We said that a very interesting detail about **tener** is that
-  you can also translate it as -*tain*, when this -*tain* forms part of another verb in English. So *contain*
-  becomes **contener**. So how was *it has *or *she has*? *He has*?
+T: *What you have*, or *she*, or *it*. Very good. We said that a very interesting detail about **tener** is that you can also translate it as *-tain*, when this *-tain* forms part of another verb in English. So *contain* becomes **contener**. So how was *it has* or *she has*? *He has*?
 
 S: **Tiene.**
 
-T: Yes. We saw that it was **tiene**. We haven't looked at why yet, but we've seen that it's a little bit
-  irregular. In Spanish you can generalize this irregularity. How is *I have*?
+T: Yes. We saw that it was **tiene**. We haven't looked at why yet, but we've seen that it's a little bit irregular. In Spanish you can generalize this irregularity. How is *I have*?
 
 S: **Tengo.**
 
-T: **Tengo. ***I obtain*:
+T: **Tengo.** *I obtain*:
 
 S: **Obtengo.**
 
-T: **Obtengo. **Sounds rather formal in English, but in Spanish you might use it like *get*. *I get it*, **lo **
-  **obtengo**. *I obtain it*. *To put *in Spanish is **poner**. **Poner**.
+T: **Obtengo.** Sounds rather formal in English, but in Spanish you might use it like *get*. *I get it*, **lo obtengo**. *I obtain it*. *To put* in Spanish is **poner**. **Poner**.
 
-S: **Poner*****.***
+S: **Poner.**
 
-T: That means *to put*. And *I put* you have the same business with this *g* popping up, so how do you
-  think it sounds, *I put*?
+T: That means *to put*. And *I put* you have the same business with this *g* popping up, so how do you think it sounds, *I put*?
 
 S: **Pongo.**
 
-T: **Pongo. **And **poner** is interesting like **tener**, because when we have -*pose* inside of a verb in English
-  we can turn that -*pose* into **poner**, and we get the verb in Spanish. So the example would be
-  *compose* becomes **componer**. So *to**compose* is **componer**. How would *to**suppose* be?
+T: **Pongo.** And **poner** is interesting like **tener**, because when we have *-pose* inside of a verb in English we can turn that *-pose* into **poner**, and we get the verb in Spanish. So the example would be *compose* becomes **componer**. So *to compose* is **componer**. How would *to suppose* be?
 
 S: **Suposer.**
 
@@ -278,23 +222,19 @@ T: So *compose* is **componer**. *Suppose* is:
 
 S: **Suponer.**
 
-T: **Suponer. **And how do you think you would say *I suppose*? We want to generalize our irregularities
-  in Spanish. So how was *I put*? How was that? *I put*:
+T: **Suponer.** And how do you think you would say *I suppose*? We want to generalize our irregularities in Spanish. So how was *I put*? How was that? *I put*:
 
 S: **Pongo.**
 
-T: **Pongo. **So **suponer**, *to suppose,* becomes, for *I suppose*:
+T: **Pongo.** So **suponer**, *to suppose*, becomes, for *I suppose*:
 
 S: **Supongo.**
 
-T: Yeah. **Supongo. **And you will hear **supongo que sí**, *I suppose that yes*. I said that **que** can also
-  mean *that*. *I suppose so*, we say in English. In Spanish you say *I suppose that yes*. **Supongo que **
-  **sí**. You will hear that. So we had **componer**, *to compose*; **suponer**, *to suppose*. How would you
-  say *to impose*?
+T: Yeah. **Supongo.** And you will hear **supongo que sí**, *I suppose that yes*. I said that **que** can also mean *that*. *I suppose so*, we say in English. In Spanish you say *I suppose that yes*. **Supongo que sí**. You will hear that. So we had **componer**, *to compose*; **suponer**, *to suppose*. How would you say *to impose*?
 
 S: **Imponer.**
 
-T: **Imponer. ***To expose*:
+T: **Imponer.** *To expose*:
 
 S: **Exponer.**
 
@@ -302,42 +242,33 @@ T: *To oppose*:
 
 S: **Oponer.**
 
-T: Yes. *I oppose it.**I oppose it*:
+T: Yes. *I oppose it. I oppose it*:
 
 S: **Lo opongo.**
 
-T: **Lo opongo. ***I oppose it.* Good. And *I have*:
+T: **Lo opongo.** *I oppose it.* Good. And *I have*:
 
 S: **Tengo.**
 
-T: **Tengo. **And we said we can add on **que** to get the meaning of *have to*. So if you want to say *I have *
-  *to see her*, how would you say *I have to see her*?
+T: **Tengo.** And we said we can add on **que** to get the meaning of *have to*. So if you want to say *I have to see her*, how would you say *I have to see her*?
 
 S: **Tengo que verla.**
 
-T: Good. We can say **la tengo que ver **or **tengo que verla. **Both are fine. How would you say *I must *
-  *see her*, *I owe to see her*?
+T: Good. We can say **la tengo que ver** or **tengo que verla**. Both are fine. How would you say *I must see her*, *I owe to see her*?
 
 S: **Debo verla.**
 
-T: **Debo verla. **Or where else would you put that **la**?
+T: **Debo verla.** Or where else would you put that **la**?
 
 S: **La debo ver.**
 
-T: Good. **La debo ver. **The difference between **tengo que **and **debo **is exactly like English. We use
-  *must* when it's a bit more serious: *I must see her*. And we say *have to* like an everyday kind of
-  thing. The way you use it in English and Spanish is exactly the same. So **debo** is a little bit more
-
-  severe, a little bit more serious, and **tener que**, *to have to *with **que**, is more everyday. **Tengo que **
-  **comer ahora**. What does that mean? **Tengo que comer ahora**:
+T: Good. **La debo ver.** The difference between **tengo que** and **debo** is exactly like English. We use *must* when it's a bit more serious: *I must see her*. And we say *have to* like an everyday kind of thing. The way you use it in English and Spanish is exactly the same. So **debo** is a little bit more severe, a little bit more serious, and **tener que**, *to have to* with **que**, is more everyday. **Tengo que comer ahora**. What does that mean? **Tengo que comer ahora**:
 
 S: *I have to eat now.*
 
-T: Good. *I have to eat now. *What does it mean if I say **voy a intentar comer más tarde**? **Voy a **
+T: Good. *I have to eat now.* What does it mean if I say **voy a intentar comer más tarde**? **Voy a intentar comer más tarde**:
 
-  **intentar comer más tarde**:
-
-S: **Voy **is *I'm going*.
+S: **Voy** is *I'm going*.
 
 T: Yes.
 
@@ -345,11 +276,9 @@ S: **Intentar**? Can you say the whole sentence again?
 
 T: **Voy a intentar comer más tarde.**
 
-S: It sounds odd, because it sounds like *I'm going *with the intention to eat later.
+S: It sounds odd, because it sounds like *I'm going* with the intention to eat later.
 
-T: Good, but it's not a noun. It's not the intention. It's not **la intención**, it's **intentar**. And when you
-  hear that -*ar* on the end, you can suspect that it's a verb. Most of the time it's going to be. So you
-  want *to* something. **Voy a intentar**:
+T: Good, but it's not a noun. It's not the intention. It's not **la intención**, it's **intentar**. And when you hear that *-ar* on the end, you can suspect that it's a verb. Most of the time it's going to be. So you want *to* something. **Voy a intentar**:
 
 S: *I'm going to intend-*
 
@@ -357,18 +286,15 @@ T: *I'm going to try.*
 
 S: Ah.
 
-T:* I'm going to try: *
+T: *I'm going to try:*
 
 S: *To eat later.*
 
-T: Exactly. *I'm going to try to eat later. *Good. So let's make a very short recap on these useful verbs
-  that tend to have verbs coming after them in this way, like **voy a**. So we had **voy a**: *I'm going to. I *
-  *can?* It might help to know that the word *power* is related to this word in Spanish. Of course when
-  you *can*, when you're *able* to, you have the *power* to. So it's related and it begins with *p*. *I can*:
+T: Exactly. *I'm going to try to eat later.* Good. So let's make a very short recap on these useful verbs that tend to have verbs coming after them in this way, like **voy a**. So we had **voy a**: *I'm going to*. *I can?* It might help to know that the word *power* is related to this word in Spanish. Of course when you *can*, when you're *able* to, you have the *power* to. So it's related and it begins with *p*. *I can*:
 
 S: **Puedo.**
 
-T: **Puedo. **Good. **Voy a comer**: *I'm going to eat. ***Puedo comer** - what does that mean?
+T: **Puedo.** Good. **Voy a comer**: *I'm going to eat*. **Puedo comer** - what does that mean?
 
 S: *I can eat.*
 
@@ -384,5 +310,4 @@ T: **Quiero comer**:
 
 S: *I want to eat.*
 
-T: Good. So these verbs: **quiero**, **voy****a**, **tengo****que**, **puedo**, **debo**, they're very useful because we can
-  just put the “to” form after.
+T: Good. So these verbs: **quiero**, **voy a**, **tengo que**, **puedo**, **debo**, they're very useful because we can just put the "to" form after.

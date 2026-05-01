@@ -47,11 +47,9 @@ T: Very good. The *I* version is a tiny bit irregular, it's **veo**. So you have
 
 S: **Veo.**
 
-  *I’m seeing her later*
-T: *V-e-o. */*beo*/ or /*veo*/.How how would you say: ?
+T: *V-e-o.* /*beo*/ or /*veo*/. How would you say: *I'm seeing her later*?
 
 S: **Veo ella más tarde.**
-
 T: That means *I see she later*.
 
 S: It's not **la**?
@@ -94,7 +92,7 @@ T: Good. And *you* (informal):
 
 S: **La ves pronto.**
 
-T: *Them**soon*. *You're seeing them*:
+T: *Them* soon. *You're seeing them*:
 
 S: **Las ves pronto.**
 
@@ -145,11 +143,10 @@ T: Good. **¿No vas a vernos pronto?** Or **¿No nos vas a ver pronto?** Either 
 
 S: **¿Por qué no vas a vernos pronto?**
 
-T: Good. So we've seen that we can use the present to talk about the future using “going to”, or also
-  is “the week that comes". And
-  using future context. A word like *tomorrow*, *next week*; *next week *
-  *the week* is **la semana**. **La semana. **How would you say *the week that comes*? So what is the word
-  for *that*, which is the same as *what*?
+T: Good. So we've seen that we can use the present to talk about the future using "going to", or also
+  using future context. A word like *tomorrow*, *next week*; *next week* is "the week that comes". And
+  *the week* is **la semana**. **La semana.** How would you say *the week that comes*? So what is the word
+  for *that*, which is the same as *what*?  for *that*, which is the same as *what*?
 
 S: **Que.**
 

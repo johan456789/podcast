@@ -34,8 +34,6 @@ Student: **NorMAL**.
 
 Teacher: So if we assume the same happens with other words, how do you think you would say *metal*?
 
-  *Metal*:
-
 Student: **Metal**.
 
 Teacher: **Metal**. To get a perfect accent in Spanish we just need to pronounce all of the vowels exactly
@@ -72,8 +70,6 @@ Teacher: **Es legal**. *Illegal*?
 
 Student: **Ilegal**.
 
-  *illegal”*
-
 Teacher: **Ilegal**, good. So here in English we have an *i* and an *e* producing the same sound, “.
 
   The *i* and the *e* are producing the same sound, so this is really confusing if you want to learn
@@ -103,8 +99,6 @@ Teacher: **Natural**, good. That’s a *t*, so you pronounce a *t*. *A* is like 
 
 Student: **Es natural.**
 
-  *it’s not*
-
 Teacher: **Es Natural.** If you want to say *it isn't* or , the word for *not* or *don't* is the same as the
   word for *no*. And the word for *no* in Spanish is the same as the word for *no* in English, but you
   pronounce it like in Spanish. So how do you think you say *no* in Spanish?
@@ -125,13 +119,9 @@ Teacher: **No es normal**. How would you say *ideal*? So really think about how 
 
 Student: **Ideal.**
 
-  *it’s ideal*
-
 Teacher: Good. **Ideal**. How would you say ?
 
 Student: **Es ideal.**
-
-  *It’s not ideal:*
 
 Teacher: **Es ideal**.
 
@@ -163,8 +153,6 @@ Student: **Anual.**
 
 Teacher: **Anual**. And you cut this *y* sound that comes in English *ann-y-ual*. This *y* sound comes from
   nowhere in English and you cut it out ’cause you focused on how it’s written. **Anual. **Very nice.
-
-  *Dental: *
 
 Student: **Dental.**
 
